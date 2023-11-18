@@ -2,13 +2,12 @@
 # Introduction 
 This data analysis by (check out my LinkedIn profile here: https://www.linkedin.com/in/marcrivera9/), dove into the intricacies of Airbnb requests with one main goal in mind: boosting profits. Let's explore the findings together and uncover ways to make the most out of Airbnb engagements.
 # Objective
-In this simulated Airbnb data analysis project, the primary objective was to address four key requests: maximizing revenue, enhancing host engagement, improving guest satisfaction, and strategic planning. Leveraging tools such as Databricks and SQL Spark, I delved into the data to extract insights tailored to each request. For revenue optimization, advanced analytics were applied to identify opportunities and formulate strategic recommendations. Host engagement was improved through the analysis of interaction patterns using SQL Spark, while Python was exclusively for visualization. Additionally, strategic planning analysis utilized Databricks and SQL Spark to offer insights and recommendations for Airbnb's future growth and success. The project aimed to not only understand but also address these requests, providing Airbnb with actionable strategies and insights for improvement.
+In this simulated Airbnb data analysis project, the primary objective was to address four key requests: maximizing revenue, enhancing host engagement, improving guest satisfaction, and strategic planning. Leveraging tools such as Databricks and SQL Spark, I delved into the data to extract insights tailored to each request. For revenue optimization, advanced analytics were applied to identify opportunities and formulate strategic recommendations. Host engagement was improved through the analysis of interaction patterns using SQL Spark. Additionally, strategic planning analysis utilized Databricks and SQL Spark to offer insights and recommendations for Airbnb's future growth and success. The project aimed to not only understand but also address these requests, providing Airbnb with actionable strategies and insights for improvement.
 
 # Tools
 * Databricks
 * Microsoft Azure
 * SQL
-* Python
 * kaggle dataset (https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
 
 # Steps 
@@ -54,11 +53,7 @@ Now we are ready to start our next data analysis.
 * Explore guest satisfaction metrics using Databricks and SQL Spark for initial analysis.
 * Document each step of the analysis process, including code snippets, queries, and key findings.
 
-3. Create Visualizations and Summarize, PPT (PPT in files above)
-
-*  Create visualizations using Python for an effective presentation of insights.
-* Summarize recommendations and strategies for each focus area in a clear and concise manner.
-* Provide recommendations to enhance the overall guest experience on Airbnb
+3. Summarize finding,(PPT) or last section
 
 # Exploratory Data Analysis (EDA)
 
