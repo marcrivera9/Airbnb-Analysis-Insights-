@@ -23,7 +23,7 @@ In this simulated Airbnb data analysis project, the primary objective was to add
 
 ![databricks_launch](https://github.com/marcrivera9/Airbnb-Analysis-Insights-/assets/148594670/1f660ade-2087-4f2e-9a7a-ff5a7d804f19)
 
-* Establish connections to relevant data sources within Airbnb, ensuring data accessibility for analysis. Start Cluster, press play button or when you first sign hit the compute on databricks and your cluser should be created. Press Play.
+* Establish connections to relevant data sources within Airbnb, ensuring data accessibility for analysis. Start Cluster, press play button or when you first sign hit the compute on databricks and your cluster should be created. Press Play.
 
 ![cluster_running](https://github.com/marcrivera9/Airbnb-Analysis-Insights-/assets/148594670/24e3fac6-8481-429a-8010-9b5334af6b78)
 
