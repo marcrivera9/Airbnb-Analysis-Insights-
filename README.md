@@ -9,6 +9,7 @@ In this simulated Airbnb data analysis project, the primary objective was to add
 * Microsoft Azure
 * SQL
 * Python
+* kaggle dataset (https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
 
 # Steps 
 1. Environment Setup:
