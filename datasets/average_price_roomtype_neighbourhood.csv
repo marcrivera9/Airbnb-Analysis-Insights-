@@ -1,0 +1,1852 @@
+city,neighbourhood,room_type,average_price
+Rio de Janeiro,Sao Cristovao,Shared room,208468.67
+Bangkok,Taling Chan,Entire place,13748.44
+Cape Town,Ward 78,Entire place,12240
+Cape Town,Ward 74,Hotel room,12013.07
+Bangkok,Sathon,Shared room,8662.92
+Bangkok,Dusit,Entire place,8474.83
+Cape Town,Ward 44,Private room,7500
+Cape Town,Ward 54,Entire place,6714.91
+Bangkok,Chatu Chak,Hotel room,6629.67
+Rio de Janeiro,Alto da Boa Vista,Entire place,6439.66
+Bangkok,Bang Khae,Entire place,6331.91
+Cape Town,Ward 15,Hotel room,5958.36
+Cape Town,Ward 62,Entire place,5944.81
+Istanbul,Uskudar,Hotel room,5673
+Cape Town,Ward 54,Hotel room,5395.07
+Rio de Janeiro,Bangu,Entire place,5199.55
+Istanbul,Kartal,Shared room,5112.67
+Bangkok,Lat Phrao,Shared room,5000
+Rio de Janeiro,Joa,Entire place,4914.34
+Rio de Janeiro,Anchieta,Entire place,4844
+Bangkok,Min Buri,Entire place,4704.45
+Bangkok,Bang Khun thain,Entire place,4476.2
+Bangkok,Bang Khun thain,Shared room,4402.67
+Bangkok,Bang Rak,Entire place,4315.27
+Bangkok,Khlong Toei,Hotel room,4292.42
+Bangkok,Khlong Toei,Private room,4179.84
+Cape Town,Ward 74,Entire place,4003.79
+Cape Town,Ward 40,Entire place,4000
+Bangkok,Yan na wa,Hotel room,3981.56
+Bangkok,Parthum Wan,Entire place,3882.78
+Istanbul,Arnavutkoy,Shared room,3825
+Rio de Janeiro,Sao Conrado,Entire place,3688.04
+Bangkok,Bang Khun thain,Private room,3613.73
+Istanbul,Beykoz,Shared room,3535.2
+Bangkok,Lat Phrao,Entire place,3495.39
+Bangkok,Wang Thong Lang,Shared room,3376.8
+Cape Town,Ward 71,Entire place,3268.87
+Bangkok,Yan na wa,Private room,3196.39
+Cape Town,Ward 69,Entire place,3166.85
+Bangkok,Nong Chok,Entire place,3137
+Hong Kong,Sham Shui Po,Shared room,3105.83
+Bangkok,Phra Nakhon,Entire place,3096.01
+Hong Kong,Tsuen Wan,Entire place,3092.67
+Rio de Janeiro,Guaratiba,Entire place,3084.87
+Bangkok,Pra Wet,Entire place,3077.43
+Bangkok,Samphanthawong,Hotel room,3012.64
+Bangkok,Bang Kho laen,Hotel room,3003
+Bangkok,Saphan Sung,Entire place,2993.89
+Bangkok,Din Daeng,Private room,2849.49
+Cape Town,Ward 66,Private room,2809.75
+Hong Kong,Tuen Mun,Entire place,2803.36
+Bangkok,Yan na wa,Entire place,2740.68
+Bangkok,Vadhana,Entire place,2608.96
+Cape Town,Ward 100,Private room,2602.55
+Bangkok,Lak Si,Hotel room,2586.18
+Cape Town,Ward 77,Entire place,2585.78
+Mexico City,Iztapalapa,Private room,2570.96
+Istanbul,Beykoz,Entire place,2553.76
+Bangkok,Khlong San,Entire place,2552.49
+Bangkok,Parthum Wan,Private room,2514.76
+Bangkok,Samphanthawong,Entire place,2512.3
+Cape Town,Ward 115,Hotel room,2510.81
+Bangkok,Huai Khwang,Hotel room,2494.03
+Bangkok,Sathon,Private room,2478.98
+Bangkok,Bueng Kum,Private room,2474
+Bangkok,Parthum Wan,Shared room,2460.47
+Bangkok,Khan Na Yao,Private room,2448.58
+Cape Town,Ward 14,Entire place,2425.29
+Rio de Janeiro,Andarai,Entire place,2421.95
+Bangkok,Bangkok Noi,Entire place,2404.32
+Cape Town,Ward 61,Shared room,2402
+Bangkok,Khlong San,Hotel room,2391.08
+Bangkok,Vadhana,Private room,2381.53
+Cape Town,Ward 4,Entire place,2378.63
+Bangkok,Sai Mai,Entire place,2337.73
+Cape Town,Ward 74,Private room,2282.6
+Cape Town,Ward 59,Entire place,2268.55
+Istanbul,Eyup,Hotel room,2257.4
+Cape Town,Ward 61,Entire place,2250.04
+Bangkok,Chom Thong,Shared room,2250
+Cape Town,Ward 110,Private room,2217
+Istanbul,Silivri,Entire place,2198.81
+Bangkok,Khlong Sam Wa,Entire place,2184.91
+Istanbul,Sariyer,Entire place,2181.42
+Bangkok,Thawi Watthana,Private room,2173.14
+Bangkok,Chom Thong,Entire place,2157.02
+Bangkok,Bang Na,Private room,2133.58
+Bangkok,Huai Khwang,Private room,2115.2
+Cape Town,Ward 61,Hotel room,2108.21
+Cape Town,Ward 32,Entire place,2103.5
+Cape Town,Ward 22,Entire place,2089.67
+Bangkok,Bangkok Yai,Entire place,2076.94
+Bangkok,Thawi Watthana,Entire place,2074.64
+Bangkok,Bang Na,Hotel room,2066.67
+Bangkok,Pom Prap Sattru Phai,Entire place,2056.73
+Bangkok,Vadhana,Hotel room,2038.22
+Mexico City,Miguel Hidalgo,Entire place,2029.87
+Cape Town,Ward 84,Shared room,2013.33
+Cape Town,Ward 54,Private room,2004.33
+Cape Town,Ward 111,Entire place,2000
+Bangkok,Thung khru,Entire place,1997.71
+Bangkok,Khlong San,Private room,1990.39
+Bangkok,Sathon,Entire place,1985.97
+Bangkok,Thon buri,Private room,1982.43
+Bangkok,Samphanthawong,Private room,1958.59
+Bangkok,Suanluang,Private room,1957.65
+Mexico City,A�lvaro Obregon,Shared room,1946.38
+Cape Town,Ward 26,Entire place,1940.38
+Bangkok,Nong Khaem,Entire place,1929.29
+Mexico City,Benito Juarez,Shared room,1918.03
+Bangkok,Pom Prap Sattru Phai,Private room,1900.95
+Bangkok,Bang Khae,Private room,1891.14
+Rio de Janeiro,Parque Anchieta,Entire place,1884
+Rio de Janeiro,Jacarepagua,Hotel room,1879.67
+Bangkok,Din Daeng,Entire place,1870.17
+Bangkok,Ratchathewi,Entire place,1864.96
+Rio de Janeiro,Barra de Guaratiba,Entire place,1858.57
+Cape Town,Ward 73,Entire place,1856.55
+Bangkok,Bangkok Noi,Private room,1850.64
+Bangkok,Bang Bon,Entire place,1847
+Bangkok,Khlong Toei,Entire place,1840.4
+Cape Town,Ward 23,Entire place,1839.55
+Istanbul,Sisli,Hotel room,1838.02
+Rio de Janeiro,Lagoa,Entire place,1837.1
+Mexico City,Coyoacan,Hotel room,1835.25
+Cape Town,Ward 115,Entire place,1832.37
+Mexico City,Xochimilco,Entire place,1828.47
+Cape Town,Ward 73,Hotel room,1800
+Bangkok,Phaya Thai,Private room,1797.08
+Cape Town,Ward 67,Entire place,1795.78
+Cape Town,Ward 100,Hotel room,1792.1
+Bangkok,Bang Phlat,Private room,1790.88
+Mexico City,Cuauhtemoc,Hotel room,1790.78
+Bangkok,Ratchathewi,Private room,1770.72
+Bangkok,Phra Khanong,Private room,1770.3
+Bangkok,Bang Kho laen,Entire place,1760.66
+Bangkok,Huai Khwang,Entire place,1756.95
+Bangkok,Phaya Thai,Entire place,1752.21
+Cape Town,Ward 4,Hotel room,1747.86
+Bangkok,Rat Burana,Entire place,1745.9
+Bangkok,Suanluang,Entire place,1734.39
+Bangkok,Chatu Chak,Shared room,1727.2
+Mexico City,Cuajimalpa de Morelos,Hotel room,1725.09
+Cape Town,Ward 27,Entire place,1719.32
+Bangkok,Saphan Sung,Private room,1719.29
+Bangkok,Bang Rak,Shared room,1714.34
+Bangkok,Wang Thong Lang,Private room,1712.77
+Cape Town,Ward 56,Entire place,1711.33
+Rio de Janeiro,Santa Teresa,Shared room,1707.57
+Bangkok,Bang Rak,Private room,1700.7
+Cape Town,Ward 86,Entire place,1692.74
+Rio de Janeiro,Itanhanga,Entire place,1690
+Mexico City,Milpa Alta,Private room,1682.62
+Bangkok,Phra Khanong,Shared room,1672.13
+Istanbul,Silivri,Hotel room,1671.5
+Cape Town,Ward 15,Entire place,1666.24
+Cape Town,Ward 62,Hotel room,1650
+Cape Town,Ward 100,Entire place,1647.85
+Bangkok,Phra Nakhon,Hotel room,1640.85
+Bangkok,Bangkok Yai,Private room,1640.53
+Bangkok,Chatu Chak,Entire place,1634.54
+Bangkok,Bang Kho laen,Private room,1633.21
+Bangkok,Thon buri,Hotel room,1632
+Cape Town,Ward 84,Entire place,1631.83
+Mexico City,Cuajimalpa de Morelos,Entire place,1628.35
+Hong Kong,Southern,Entire place,1628.14
+Bangkok,Taling Chan,Private room,1627.23
+Cape Town,Ward 64,Entire place,1619.65
+Bangkok,Parthum Wan,Hotel room,1608.52
+Bangkok,Bang Khen,Entire place,1604.3
+Cape Town,Ward 107,Entire place,1593.65
+Bangkok,Lat Krabang,Entire place,1575.17
+Cape Town,Ward 82,Entire place,1575
+Bangkok,Bueng Kum,Entire place,1572.17
+Bangkok,Khan Na Yao,Entire place,1557.79
+Bangkok,Chatu Chak,Private room,1555.34
+Mexico City,Miguel Hidalgo,Hotel room,1543.57
+Cape Town,Ward 28,Private room,1540
+Cape Town,Ward 71,Private room,1537.87
+Mexico City,A�lvaro Obregon,Entire place,1536.22
+Cape Town,Ward 58,Entire place,1532.97
+Bangkok,Bang Sue,Private room,1527.4
+Bangkok,Sathon,Hotel room,1519.67
+Bangkok,Lat Phrao,Private room,1516.93
+Cape Town,Ward 1,Hotel room,1516.67
+Bangkok,Bang Rak,Hotel room,1511.71
+Bangkok,Bangkok Yai,Hotel room,1505
+Rio de Janeiro,Cacuia,Entire place,1500
+Rio de Janeiro,Cavalcanti,Entire place,1500
+Bangkok,Dusit,Private room,1491
+Cape Town,Ward 55,Hotel room,1470
+Bangkok,Phra Khanong,Entire place,1466.06
+Istanbul,Catalca,Entire place,1461
+Bangkok,Thung khru,Private room,1457.47
+Hong Kong,Sai Kung,Entire place,1455.85
+Cape Town,Ward 55,Entire place,1455.66
+Rio de Janeiro,Taquara,Shared room,1451.5
+Istanbul,Kucukcekmece,Private room,1445.32
+Cape Town,Ward 105,Entire place,1443.32
+Bangkok,Khlong Sam Wa,Private room,1432.7
+Bangkok,Phasi Charoen,Entire place,1428.7
+Mexico City,Cuauhtemoc,Entire place,1426.98
+Bangkok,Bang Phlat,Entire place,1417.83
+Bangkok,Don Mueang,Entire place,1414.91
+Bangkok,Phra Nakhon,Private room,1397.31
+Bangkok,Ratchathewi,Hotel room,1390.21
+Istanbul,Sariyer,Hotel room,1377.33
+Bangkok,Bang Kapi,Entire place,1370.99
+Rio de Janeiro,Vaz Lobo,Entire place,1364
+Istanbul,Pendik,Entire place,1359.03
+Cape Town,Ward 1,Entire place,1352.42
+Cape Town,Ward 109,Private room,1345.86
+Cape Town,Ward 4,Private room,1345.27
+Cape Town,Ward 109,Entire place,1341.95
+Cape Town,Ward 105,Private room,1338.02
+Cape Town,Ward 115,Private room,1337.77
+Hong Kong,Central & Western,Hotel room,1335.2
+Bangkok,Pom Prap Sattru Phai,Hotel room,1332.47
+Cape Town,Ward 113,Entire place,1327.06
+Rio de Janeiro,Vista Alegre,Private room,1326
+Istanbul,Buyukcekmece,Entire place,1323.25
+Cape Town,Ward 46,Private room,1317.17
+Bangkok,Thon buri,Entire place,1314.11
+Bangkok,Lak Si,Entire place,1307.67
+Cape Town,Ward 21,Shared room,1300
+Cape Town,Ward 21,Hotel room,1297
+Cape Town,Ward 14,Private room,1288.13
+Rio de Janeiro,Guaratiba,Shared room,1286.33
+Cape Town,Ward 21,Entire place,1284.4
+Cape Town,Ward 15,Private room,1281.58
+Cape Town,Ward 83,Entire place,1270.71
+Mexico City,Milpa Alta,Entire place,1270.2
+Cape Town,Ward 107,Hotel room,1270
+Hong Kong,Tai Po,Entire place,1269.83
+Bangkok,Bang Na,Entire place,1269.65
+Bangkok,Yan na wa,Shared room,1262.5
+Hong Kong,Kwai Tsing,Private room,1262.2
+Cape Town,Ward 48,Entire place,1261
+Bangkok,Phaya Thai,Hotel room,1260.13
+Cape Town,Ward 77,Hotel room,1254.17
+Mexico City,Coyoacan,Entire place,1253.68
+Bangkok,Bang Sue,Entire place,1246.39
+Bangkok,Bang Phlat,Hotel room,1241.67
+Bangkok,Suanluang,Shared room,1234.93
+Rio de Janeiro,Santa Cruz,Shared room,1230.2
+Cape Town,Ward 23,Hotel room,1221.44
+Bangkok,Lat Krabang,Private room,1220.24
+Rio de Janeiro,Santo Cristo,Entire place,1213.33
+Cape Town,Ward 68,Entire place,1200
+New York,New Brighton,Entire place,1200
+Cape Town,Ward 103,Shared room,1200
+Cape Town,Ward 69,Hotel room,1199
+Cape Town,Ward 62,Private room,1198.81
+Cape Town,Ward 23,Private room,1198.44
+Bangkok,Pra Wet,Private room,1186.93
+Bangkok,Phasi Charoen,Private room,1184.12
+Cape Town,Ward 112,Hotel room,1183.33
+Mexico City,Coyoacan,Shared room,1175.62
+Bangkok,Phra Nakhon,Shared room,1175.48
+Bangkok,Bang Bon,Private room,1174
+Bangkok,Samphanthawong,Shared room,1170.57
+Mexico City,Tlahuac,Shared room,1168.75
+Cape Town,Ward 112,Entire place,1167.68
+Rio de Janeiro,Cidade de Deus,Entire place,1163.5
+Bangkok,Pra Wet,Hotel room,1162.2
+Bangkok,Chom Thong,Private room,1159.59
+Mexico City,Tlalpan,Entire place,1157.09
+Cape Town,Ward 11,Entire place,1153.67
+Cape Town,Ward 25,Private room,1151.67
+Rio de Janeiro,Santa Teresa,Entire place,1151.47
+Rio de Janeiro,Realengo,Entire place,1144.25
+Bangkok,Don Mueang,Private room,1142.83
+Rio de Janeiro,Barra da Tijuca,Entire place,1140.08
+Bangkok,Wang Thong Lang,Entire place,1131.69
+Istanbul,Kucukcekmece,Entire place,1116.4
+Bangkok,Bangkok Noi,Hotel room,1113.33
+Cape Town,Ward 12,Entire place,1100
+Mexico City,Benito Juarez,Hotel room,1099.68
+Cape Town,Ward 85,Entire place,1098.48
+Hong Kong,Islands,Entire place,1095.59
+Hong Kong,Kwai Tsing,Entire place,1095.17
+Cape Town,Ward 103,Entire place,1091.16
+Cape Town,Ward 57,Entire place,1086.71
+Bangkok,Rat Burana,Private room,1086.32
+Cape Town,Ward 84,Hotel room,1080
+Bangkok,Bang Kapi,Private room,1077.65
+Mexico City,Benito Juarez,Entire place,1077.58
+Cape Town,Ward 70,Entire place,1075.1
+Hong Kong,Islands,Hotel room,1071.5
+Cape Town,Ward 59,Private room,1070.9
+Hong Kong,Central & Western,Entire place,1069.67
+Rio de Janeiro,Quintino Bocaiuva,Entire place,1068
+Rio de Janeiro,Vila Militar,Entire place,1067
+Mexico City,Venustiano Carranza,Shared room,1066.82
+Rio de Janeiro,Gavea,Entire place,1060.22
+Rio de Janeiro,Vargem Grande,Entire place,1048.19
+Istanbul,Beylikduzu,Entire place,1047.46
+Rio de Janeiro,Taquara,Entire place,1044.56
+Cape Town,Ward 5,Hotel room,1040
+Bangkok,Min Buri,Private room,1037.89
+Mexico City,Iztacalco,Entire place,1034.06
+Cape Town,Ward 53,Entire place,1025.86
+Hong Kong,Kowloon City,Entire place,1020
+Cape Town,Ward 61,Private room,1017.4
+Bangkok,Thon buri,Shared room,1016
+Mexico City,Miguel Hidalgo,Private room,1014.86
+Istanbul,Fatih,Private room,1014.73
+Bangkok,Bang Khen,Private room,1014.35
+Rio de Janeiro,Osvaldo Cruz,Entire place,1007.5
+Rio de Janeiro,Maracana,Entire place,1006.95
+Cape Town,Ward 59,Hotel room,1006.67
+Cape Town,Ward 69,Private room,1004.48
+Bangkok,Lat Krabang,Hotel room,1000.06
+New York,Bedford-Stuyvesant,Hotel room,1000
+Cape Town,Ward 3,Hotel room,1000
+Bangkok,Suanluang,Hotel room,999.33
+Mexico City,A�lvaro Obregon,Hotel room,996.5
+New York,Murray Hill,Shared room,995.73
+Rio de Janeiro,Sao Conrado,Private room,984.84
+Cape Town,Ward 49,Entire place,984.8
+Hong Kong,Yau Tsim Mong,Entire place,983.75
+Cape Town,Ward 2,Shared room,983.33
+Hong Kong,Kwun Tong,Entire place,980.33
+Bangkok,Lak Si,Private room,979.92
+Bangkok,Phra Khanong,Hotel room,978.5
+Hong Kong,Sai Kung,Private room,974.04
+Hong Kong,Wan Chai,Entire place,973.08
+Mexico City,Gustavo A. Madero,Entire place,972.9
+Bangkok,Don Mueang,Hotel room,970.12
+Bangkok,Din Daeng,Hotel room,969.83
+Rio de Janeiro,Jardim Botanico,Entire place,969.17
+Mexico City,Azcapotzalco,Entire place,963.75
+Cape Town,Ward 104,Entire place,959.75
+Istanbul,Sisli,Entire place,958.56
+Cape Town,Ward 5,Entire place,955.24
+Cape Town,Ward 84,Private room,951.8
+Rio de Janeiro,Gamboa,Private room,948.88
+Istanbul,Adalar,Entire place,948.38
+Cape Town,Ward 72,Entire place,946.6
+Cape Town,Ward 60,Entire place,946.47
+Cape Town,Ward 8,Entire place,946.18
+Rio de Janeiro,Copacabana,Private room,945.84
+Rio de Janeiro,Vila Isabel,Entire place,945.12
+Cape Town,Ward 102,Entire place,939.39
+Hong Kong,Eastern,Entire place,928.27
+Bangkok,Ratchathewi,Shared room,922.07
+Rio de Janeiro,Leblon,Entire place,915.77
+Hong Kong,Yau Tsim Mong,Hotel room,915.76
+Hong Kong,North,Private room,912.72
+Cape Town,Ward 64,Private room,904.23
+Bangkok,Khlong Toei,Shared room,901.67
+Rio de Janeiro,Ricardo de Albuquerque,Private room,900
+Cape Town,Ward 6,Entire place,900
+Rio de Janeiro,Complexo do Alemao,Shared room,900
+Cape Town,Ward 58,Hotel room,900
+Rio de Janeiro,Osvaldo Cruz,Private room,900
+Cape Town,Ward 2,Hotel room,895
+Rio de Janeiro,Recreio dos Bandeirantes,Entire place,894.81
+Mexico City,Cuauhtemoc,Private room,894.5
+Hong Kong,Southern,Private room,893.35
+Cape Town,Ward 63,Entire place,890.19
+Cape Town,Ward 77,Private room,884.11
+Rio de Janeiro,Vargem Pequena,Entire place,878.93
+Istanbul,Sile,Entire place,875.94
+Cape Town,Ward 75,Entire place,875
+Rio de Janeiro,Marechal Hermes,Private room,872.29
+Cape Town,Ward 64,Hotel room,872.13
+Cape Town,Ward 66,Entire place,870
+Cape Town,Ward 53,Hotel room,870
+Mexico City,La Magdalena Contreras,Entire place,869.12
+Rio de Janeiro,Vicente de Carvalho,Entire place,862.5
+Cape Town,Ward 53,Shared room,860
+Cape Town,Ward 112,Private room,855.13
+Bangkok,Bang Na,Shared room,852.33
+Hong Kong,Islands,Private room,851.68
+Cape Town,Ward 4,Shared room,850
+Cape Town,Ward 19,Entire place,848.67
+Rio de Janeiro,Todos os Santos,Entire place,848.5
+Bangkok,Sai Mai,Private room,846.2
+Rio de Janeiro,Tijuca,Entire place,846.16
+Mexico City,Tlahuac,Entire place,840
+Rio de Janeiro,Praca da Bandeira,Entire place,838.86
+Cape Town,Ward 21,Private room,838.25
+Hong Kong,Wong Tai Sin,Entire place,837.5
+Cape Town,Ward 25,Entire place,837
+Bangkok,Bang Khen,Hotel room,836.75
+Bangkok,Nong Chok,Private room,836
+Rio de Janeiro,Praca Seca,Shared room,835
+Bangkok,Nong Khaem,Private room,831.91
+Cape Town,Ward 67,Private room,830.75
+Istanbul,Adalar,Shared room,830
+Cape Town,Ward 2,Private room,827.44
+Rio de Janeiro,Ipanema,Entire place,824.31
+Rio de Janeiro,Sao Francisco Xavier,Entire place,823.83
+Cape Town,Ward 71,Hotel room,823.33
+Cape Town,Ward 2,Entire place,821.03
+Rio de Janeiro,Paciencia,Private room,818
+Cape Town,Ward 1,Private room,817.59
+Rio de Janeiro,Humaita,Entire place,815.64
+Mexico City,Venustiano Carranza,Entire place,813.37
+Rio de Janeiro,Vargem Pequena,Private room,813.16
+Rio de Janeiro,Leblon,Hotel room,811.75
+Cape Town,Ward 77,Shared room,811
+Hong Kong,North,Entire place,808.32
+Cape Town,Ward 85,Private room,808
+Hong Kong,Wan Chai,Hotel room,807.89
+Mexico City,Cuajimalpa de Morelos,Private room,807.47
+Cape Town,Ward 83,Private room,803.93
+Mexico City,Cuajimalpa de Morelos,Shared room,802.71
+Cape Town,Ward 101,Shared room,800
+Rio de Janeiro,Anchieta,Shared room,800
+Cape Town,Ward 29,Entire place,800
+New York,Fort Wadsworth,Entire place,800
+Bangkok,Min Buri,Shared room,800
+Rio de Janeiro,Mangueira,Entire place,800
+Rio de Janeiro,Rocha Miranda,Entire place,800
+Rio de Janeiro,Engenho da Rainha,Entire place,800
+Rio de Janeiro,Laranjeiras,Entire place,792.98
+Cape Town,Ward 111,Private room,787.33
+Cape Town,Ward 57,Hotel room,786
+Rio de Janeiro,Botafogo,Entire place,783.2
+Cape Town,Ward 53,Private room,783.1
+Mexico City,Gustavo A. Madero,Shared room,782
+Istanbul,Arnavutkoy,Entire place,780.22
+Cape Town,Ward 86,Private room,778.33
+Bangkok,Bang Phlat,Shared room,776.88
+Rio de Janeiro,Gardenia Azul,Entire place,776.57
+Cape Town,Ward 54,Shared room,775.88
+Mexico City,Gustavo A. Madero,Hotel room,774.71
+Hong Kong,Sha Tin,Entire place,773.18
+Mexico City,Xochimilco,Private room,773.01
+Cape Town,Ward 46,Entire place,770.44
+Cape Town,Ward 92,Entire place,767
+Cape Town,Ward 103,Private room,761.59
+Rio de Janeiro,Copacabana,Shared room,761.52
+Cape Town,Ward 70,Private room,757.2
+Cape Town,Ward 107,Private room,754.18
+Rio de Janeiro,Freguesia (Ilha),Entire place,754
+Cape Town,Ward 18,Private room,750
+Cape Town,Ward 38,Entire place,750
+Bangkok,Taling Chan,Shared room,749.5
+Hong Kong,Kowloon City,Private room,745.59
+Cape Town,Ward 55,Private room,744.47
+Hong Kong,Central & Western,Shared room,740.35
+Bangkok,Phaya Thai,Shared room,738.48
+Rio de Janeiro,Jacarepagua,Entire place,735.25
+Cape Town,Ward 1,Shared room,735
+Hong Kong,Yuen Long,Entire place,733.95
+Cape Town,Ward 3,Entire place,726.79
+Hong Kong,Islands,Shared room,723.5
+Cape Town,Ward 5,Private room,716.23
+Istanbul,Bakirkoy,Entire place,716.16
+Rio de Janeiro,Pavuna,Entire place,713.5
+Rio de Janeiro,Cosme Velho,Entire place,711.27
+Istanbul,Gaziosmanpasa,Entire place,711.21
+Bangkok,Bangkok Noi,Shared room,708.8
+Cape Town,Ward 58,Private room,703.53
+Rio de Janeiro,Anil,Entire place,701.78
+Istanbul,Uskudar,Entire place,700.92
+Cape Town,Ward 72,Private room,700
+Rio de Janeiro,Manguinhos,Entire place,700
+Mexico City,A�lvaro Obregon,Private room,696.88
+Rio de Janeiro,Urca,Entire place,695.57
+Hong Kong,Yau Tsim Mong,Shared room,695.31
+Istanbul,Zeytinburnu,Entire place,690.61
+Hong Kong,Sham Shui Po,Entire place,689.84
+Mexico City,Gustavo A. Madero,Private room,688.87
+Rio de Janeiro,Engenho Novo,Entire place,686
+Rio de Janeiro,Freguesia (Jacarepagua),Entire place,684.08
+Istanbul,Besiktas,Entire place,677.52
+Rio de Janeiro,Inhoaiba,Entire place,671
+Bangkok,Khlong San,Shared room,670
+Istanbul,Basaksehir,Entire place,667.48
+Istanbul,Kartal,Hotel room,665.13
+Bangkok,Bang Khen,Shared room,665
+Cape Town,Ward 17,Entire place,662.5
+Rio de Janeiro,Vila Valqueire,Entire place,661.29
+Mexico City,Iztapalapa,Entire place,658.69
+Istanbul,Fatih,Entire place,656.93
+Cape Town,Ward 65,Entire place,656.4
+Cape Town,Ward 60,Hotel room,656
+Rio de Janeiro,Curicica,Entire place,655.03
+Sydney,Pittwater,Entire place,653.42
+Cape Town,Ward 31,Entire place,650
+Cape Town,Ward 74,Shared room,650
+Bangkok,Min Buri,Hotel room,650
+Rio de Janeiro,Engenho de Dentro,Entire place,649.3
+Cape Town,Ward 73,Private room,648.38
+Rio de Janeiro,Gamboa,Entire place,645.29
+Cape Town,Ward 48,Private room,641.67
+Mexico City,Benito Juarez,Private room,640.15
+Mexico City,La Magdalena Contreras,Private room,638.56
+Rio de Janeiro,Jardim Sulacap,Entire place,637.5
+Rio de Janeiro,Senador Camara,Entire place,637.5
+Rio de Janeiro,Maria da Graca,Entire place,636.5
+Bangkok,Bang Kapi,Hotel room,633.33
+Rio de Janeiro,Copacabana,Entire place,631.65
+Rio de Janeiro,Riachuelo,Entire place,628.25
+Cape Town,Ward 43,Entire place,627.78
+Istanbul,Bagcilar,Hotel room,627
+Mexico City,Iztacalco,Hotel room,622
+Cape Town,Ward 10,Entire place,621.5
+Bangkok,Bang Sue,Shared room,618.33
+Bangkok,Dusit,Shared room,618
+Hong Kong,Yau Tsim Mong,Private room,617.9
+Cape Town,Ward 116,Entire place,616.67
+Mexico City,Iztapalapa,Shared room,609.4
+Cape Town,Ward 10,Private room,608.58
+Rio de Janeiro,Cosmos,Entire place,604.25
+Istanbul,Beyoglu,Hotel room,604.03
+New York,Fieldston,Entire place,604
+Bangkok,Bang Kapi,Shared room,600.29
+Rio de Janeiro,Santissimo,Shared room,600
+Bangkok,Phasi Charoen,Shared room,600
+Cape Town,Ward 104,Private room,600
+Cape Town,Ward 96,Private room,600
+Bangkok,Phasi Charoen,Hotel room,600
+Hong Kong,Sha Tin,Private room,597.03
+Hong Kong,Yuen Long,Private room,594.52
+Rio de Janeiro,Vidigal,Entire place,593.22
+Hong Kong,Tsuen Wan,Private room,592.27
+Mexico City,Coyoacan,Private room,590.84
+Mexico City,Azcapotzalco,Shared room,590.8
+Istanbul,Esenler,Entire place,590.25
+Cape Town,Ward 3,Private room,589.96
+Rio de Janeiro,Pechincha,Entire place,585.77
+Cape Town,Ward 7,Entire place,582.8
+Bangkok,Vadhana,Shared room,579.62
+Cape Town,Ward 8,Private room,578.97
+Rio de Janeiro,Barra da Tijuca,Shared room,576.53
+Cape Town,Ward 96,Entire place,576
+Istanbul,Kagithane,Hotel room,575.94
+Rio de Janeiro,Gloria,Entire place,574.1
+Istanbul,Sultangazi,Entire place,573.92
+Sydney,Woollahra,Hotel room,573.6
+Cape Town,Ward 32,Private room,570
+Cape Town,Ward 44,Entire place,565
+Bangkok,Lat Krabang,Shared room,563.13
+Mexico City,Azcapotzalco,Private room,562.39
+Rio de Janeiro,Ricardo de Albuquerque,Entire place,561.5
+Rio de Janeiro,Lagoa,Private room,561.32
+Cape Town,Ward 60,Private room,557.26
+Bangkok,Pra Wet,Shared room,556.67
+Cape Town,Ward 41,Private room,554.5
+Rio de Janeiro,Jacare,Entire place,554.5
+Cape Town,Ward 20,Entire place,550
+Cape Town,Ward 85,Shared room,550
+Istanbul,Sile,Hotel room,547.4
+Mexico City,Milpa Alta,Shared room,543.5
+Istanbul,Cekmekoy,Entire place,542.28
+Cape Town,Ward 94,Shared room,540
+New York,Gramercy,Shared room,538.5
+Rio de Janeiro,Benfica,Entire place,536.38
+Cape Town,Ward 57,Private room,535
+Cape Town,Ward 113,Private room,534.87
+Istanbul,Besiktas,Hotel room,534.32
+New York,Briarwood,Private room,533.58
+Cape Town,Ward 102,Private room,533.4
+Rio de Janeiro,Grumari,Entire place,532.67
+Cape Town,Ward 108,Entire place,532
+Rio de Janeiro,Rio Comprido,Entire place,527.3
+Istanbul,Tuzla,Entire place,524.31
+Hong Kong,Kwun Tong,Private room,522.53
+Rio de Janeiro,Santa Cruz,Entire place,518.8
+Istanbul,Gungoren,Private room,518.63
+Rio de Janeiro,Campo Grande,Entire place,518.36
+Mexico City,Miguel Hidalgo,Shared room,514.77
+Istanbul,Zeytinburnu,Private room,511.83
+Bangkok,Bangkok Yai,Shared room,510.2
+Istanbul,Basaksehir,Private room,509.29
+Rio de Janeiro,Rocha,Entire place,508.67
+Sydney,Mosman,Entire place,508.51
+Rio de Janeiro,Cidade Nova,Entire place,504.36
+Cape Town,Ward 11,Private room,501.77
+Hong Kong,Sham Shui Po,Hotel room,500
+Hong Kong,Kowloon City,Hotel room,500
+Mexico City,Tlalpan,Hotel room,500
+Cape Town,Ward 72,Shared room,500
+Cape Town,Ward 81,Private room,500
+Hong Kong,Tsuen Wan,Hotel room,500
+New York,Riverdale,Entire place,499.67
+Istanbul,Adalar,Private room,496.95
+Istanbul,Avcilar,Entire place,495.95
+Rio de Janeiro,Camorim,Entire place,495.31
+Rio de Janeiro,Sepetiba,Private room,494
+Rio de Janeiro,Guaratiba,Private room,493.92
+Rio de Janeiro,Praca Seca,Entire place,493.14
+Cape Town,Ward 63,Shared room,490
+Istanbul,Adalar,Hotel room,489.56
+Mexico City,Tlalpan,Private room,487.53
+Hong Kong,Kowloon City,Shared room,487.07
+Hong Kong,Sai Kung,Shared room,483.67
+Sydney,Campbelltown,Entire place,479.8
+Rio de Janeiro,Leme,Entire place,479.35
+Istanbul,Eyup,Entire place,478.75
+Hong Kong,Central & Western,Private room,478.13
+Cape Town,Ward 68,Private room,477.8
+Istanbul,Beyoglu,Entire place,476.15
+Mexico City,Iztacalco,Private room,475.27
+Rio de Janeiro,Itanhanga,Private room,473.62
+Hong Kong,Yuen Long,Shared room,473.3
+Rio de Janeiro,Meier,Entire place,471.25
+Rio de Janeiro,Sao Cristovao,Entire place,469.48
+Rio de Janeiro,Pedra de Guaratiba,Entire place,467.33
+Hong Kong,Tuen Mun,Private room,464.79
+Rio de Janeiro,Sepetiba,Entire place,460
+Istanbul,Catalca,Private room,459.25
+New York,Tribeca,Entire place,458.64
+Istanbul,Sile,Private room,458.35
+Rio de Janeiro,Barra da Tijuca,Private room,457.5
+Rio de Janeiro,Ribeira,Entire place,457
+Rio de Janeiro,Portuguesa,Entire place,456.67
+Cape Town,Ward 94,Private room,455.17
+Istanbul,Maltepe,Entire place,454.08
+Cape Town,Ward 23,Shared room,453.75
+Rio de Janeiro,Flamengo,Entire place,452.72
+Cape Town,Ward 100,Shared room,452.33
+Rio de Janeiro,Bangu,Private room,452.29
+Istanbul,Bagcilar,Entire place,451.41
+Mexico City,Venustiano Carranza,Private room,451.07
+Cape Town,Ward 113,Shared room,450
+Cape Town,Ward 110,Entire place,450
+Cape Town,Ward 67,Shared room,450
+Rio de Janeiro,Grajau,Entire place,448.9
+Cape Town,Ward 116,Private room,448.33
+Cape Town,Ward 27,Private room,447.83
+Istanbul,Kartal,Entire place,447.74
+Hong Kong,Wan Chai,Shared room,446.5
+Cape Town,Ward 7,Private room,442.5
+Bangkok,Din Daeng,Shared room,442.09
+Hong Kong,Wan Chai,Private room,441.08
+Rio de Janeiro,Inhauma,Entire place,441
+Cape Town,Ward 17,Private room,437.8
+Istanbul,Kadikoy,Entire place,436.11
+Mexico City,Cuauhtemoc,Shared room,435.2
+Istanbul,Beykoz,Private room,434.45
+Bangkok,Don Mueang,Shared room,433.64
+Rio de Janeiro,Abolicao,Entire place,433.5
+Rio de Janeiro,Praia da Bandeira,Private room,433.33
+Rio de Janeiro,Todos os Santos,Private room,431.7
+Bangkok,Huai Khwang,Shared room,431.18
+Paris,Temple,Hotel room,430.9
+Rio de Janeiro,Campo Grande,Private room,430.5
+Cape Town,Ward 19,Private room,426.17
+Rio de Janeiro,Campinho,Entire place,425.5
+Cape Town,Ward 76,Private room,425
+Istanbul,Gungoren,Hotel room,424
+Istanbul,Bahcelievler,Entire place,423.21
+Cape Town,Ward 63,Private room,420.89
+Cape Town,Ward 26,Private room,419.94
+Rio de Janeiro,Leblon,Private room,419.94
+Istanbul,Fatih,Hotel room,419.04
+Istanbul,Atasehir,Entire place,418.13
+Istanbul,Gungoren,Entire place,417.63
+New York,Sea Gate,Entire place,417
+Hong Kong,Tai Po,Private room,416.45
+Cape Town,Ward 16,Private room,415.5
+Rio de Janeiro,Higienopolis,Shared room,410
+Sydney,Sutherland Shire,Hotel room,408.67
+Bangkok,Pom Prap Sattru Phai,Shared room,406.45
+Sydney,Hunters Hill,Entire place,405.31
+Hong Kong,Eastern,Shared room,405.17
+Cape Town,Ward 107,Shared room,402.5
+Sydney,Woollahra,Entire place,402.02
+Rio de Janeiro,Paqueta,Entire place,401.95
+Rio de Janeiro,Paciencia,Entire place,397.83
+Istanbul,Kagithane,Entire place,397.56
+New York,Prince's Bay,Entire place,397.5
+Cape Town,Ward 49,Private room,394.82
+Rio de Janeiro,Olaria,Private room,394
+Mexico City,Tlalpan,Shared room,393.26
+Sydney,The Hills Shire,Entire place,392.23
+Istanbul,Sariyer,Private room,391.55
+Rio de Janeiro,Recreio dos Bandeirantes,Shared room,389.43
+Rio de Janeiro,Tanque,Entire place,387.25
+Rio de Janeiro,Rocinha,Entire place,385.63
+Sydney,Manly,Entire place,385.27
+Rio de Janeiro,Piedade,Entire place,383.6
+Cape Town,Ward 51,Private room,383.33
+Hong Kong,Sha Tin,Shared room,379.9
+Paris,Elysee,Hotel room,378.09
+Hong Kong,Tuen Mun,Shared room,377
+Rio de Janeiro,Pechincha,Private room,376.06
+Rio de Janeiro,Encantado,Entire place,376
+Cape Town,Ward 43,Private room,375.86
+Cape Town,Ward 60,Shared room,372.8
+Cape Town,Ward 30,Entire place,372.75
+Rio de Janeiro,Santa Teresa,Private room,370.49
+Rio de Janeiro,Alto da Boa Vista,Private room,369.62
+Paris,Hotel-de-Ville,Hotel room,369.35
+Mexico City,Iztacalco,Shared room,369.15
+Rio de Janeiro,Santo Cristo,Private room,368.63
+Mexico City,La Magdalena Contreras,Shared room,365
+Istanbul,Buyukcekmece,Hotel room,364.17
+Istanbul,Umraniye,Entire place,362.48
+Rio de Janeiro,Jardim Sulacap,Private room,361.5
+Rio de Janeiro,Sampaio,Private room,361.4
+Rio de Janeiro,Ipanema,Hotel room,361
+Cape Town,Ward 16,Entire place,360.5
+Hong Kong,Eastern,Private room,359.72
+Rio de Janeiro,Del Castilho,Entire place,358.63
+Rio de Janeiro,Sao Cristovao,Private room,357.66
+Rio de Janeiro,Cachambi,Entire place,357.25
+Istanbul,Esenyurt,Entire place,356.65
+Mexico City,Tlahuac,Private room,355.21
+Istanbul,Cekmekoy,Private room,354.83
+Sydney,Auburn,Hotel room,354.6
+Paris,Buttes-Chaumont,Hotel room,353.91
+Istanbul,Eyup,Private room,353.14
+Rio de Janeiro,Centro,Shared room,353.06
+Rio de Janeiro,Catumbi,Private room,353
+Rio de Janeiro,Joa,Private room,350.86
+Rio de Janeiro,Estacio,Entire place,350.36
+Cape Town,Ward 65,Private room,350
+Cape Town,Ward 45,Private room,350
+Rio de Janeiro,Deodoro,Entire place,350
+Cape Town,Ward 9,Entire place,350
+Rio de Janeiro,Cavalcanti,Private room,350
+Cape Town,Ward 108,Private room,350
+Cape Town,Ward 26,Shared room,350
+Rio de Janeiro,Barra de Guaratiba,Private room,348.76
+Istanbul,Beyoglu,Private room,348.45
+Istanbul,Bakirkoy,Hotel room,347.37
+Cape Town,Ward 82,Private room,346.75
+Istanbul,Buyukcekmece,Private room,346.45
+Istanbul,Sariyer,Shared room,345.42
+Cape Town,Ward 92,Private room,345
+Cape Town,Ward 115,Shared room,344.76
+Rio de Janeiro,Vargem Pequena,Shared room,343
+Rio de Janeiro,Senador Vasconcelos,Entire place,342.33
+New York,Flatiron District,Entire place,341.61
+New York,Upper West Side,Hotel room,341.36
+Sydney,Warringah,Entire place,341.22
+Istanbul,Arnavutkoy,Private room,339.18
+Rio de Janeiro,Iraja,Entire place,338.11
+Rio de Janeiro,Gloria,Private room,337.82
+Rio de Janeiro,Urca,Private room,336.38
+New York,SoHo,Entire place,334.24
+Rio de Janeiro,Catete,Entire place,333.51
+Bangkok,Bang Kho laen,Shared room,333
+Sydney,Penrith,Shared room,332.5
+Cape Town,Ward 56,Private room,331.83
+Istanbul,Silivri,Private room,330.75
+Istanbul,Esenyurt,Hotel room,327.33
+Sydney,Waverley,Entire place,325.29
+Istanbul,Bagcilar,Private room,325.08
+Cape Town,Ward 55,Shared room,325
+Rio de Janeiro,Tomas Coelho,Entire place,324
+Hong Kong,Wong Tai Sin,Private room,323.67
+Istanbul,Beylikduzu,Private room,323.32
+Sydney,Botany Bay,Hotel room,321.67
+New York,Stuyvesant Town,Entire place,319.17
+Istanbul,Atasehir,Hotel room,318.39
+Rio de Janeiro,Bonsucesso,Entire place,316.86
+Rio de Janeiro,Gavea,Private room,316.36
+Sydney,Lane Cove,Entire place,316.24
+Rio de Janeiro,Catumbi,Entire place,316
+Rio de Janeiro,Manguinhos,Private room,315
+Sydney,Holroyd,Private room,314.48
+Cape Town,Ward 22,Private room,313.33
+Istanbul,Umraniye,Private room,312.51
+Istanbul,Zeytinburnu,Hotel room,312
+Hong Kong,Wong Tai Sin,Shared room,311.5
+Istanbul,Bayrampasa,Entire place,311.1
+New York,Lower East Side,Private room,311.03
+Rio de Janeiro,Ipanema,Private room,311.03
+Rio de Janeiro,Jacare,Private room,310.5
+Rio de Janeiro,Cidade de Deus,Private room,310.43
+New York,Tottenville,Entire place,309
+New York,Willowbrook,Entire place,309
+Rio de Janeiro,Campinho,Private room,307.5
+Rio de Janeiro,Piedade,Private room,306.67
+Rio de Janeiro,Padre Miguel,Entire place,306
+Rio de Janeiro,Centro,Entire place,305.95
+Rio de Janeiro,Centro,Private room,305.75
+Cape Town,Ward 93,Private room,305
+Bangkok,Bueng Kum,Shared room,304
+New York,Cypress Hills,Entire place,303.52
+Rio de Janeiro,Recreio dos Bandeirantes,Private room,301.71
+New York,Washington Heights,Shared room,301.64
+Rio de Janeiro,Vaz Lobo,Private room,300
+Cape Town,Ward 91,Shared room,300
+Cape Town,Ward 59,Shared room,300
+Cape Town,Ward 81,Shared room,300
+Rio de Janeiro,Bento Ribeiro,Private room,300
+Cape Town,Ward 75,Private room,300
+Cape Town,Ward 12,Private room,300
+Rio de Janeiro,Cocota,Private room,298.4
+Rio de Janeiro,Freguesia (Jacarepagua),Private room,297.85
+Rio de Janeiro,Ramos,Entire place,297.5
+New York,Arverne,Entire place,296.43
+Sydney,Strathfield,Shared room,295.89
+Rio de Janeiro,Maracana,Private room,294.89
+New York,Greenwich Village,Entire place,294.83
+New York,Flatiron District,Private room,294.46
+Rio de Janeiro,Higienopolis,Entire place,294
+Rio de Janeiro,Jacarepagua,Private room,293.66
+Rio de Janeiro,Iraja,Private room,292.71
+Istanbul,Pendik,Hotel room,291.5
+New York,Theater District,Hotel room,290.49
+New York,Jamaica Estates,Private room,288.86
+Istanbul,Bahcelievler,Hotel room,288.5
+Rio de Janeiro,Taquara,Private room,287.55
+Cape Town,Ward 9,Private room,286.3
+Istanbul,Maltepe,Hotel room,283.33
+Rio de Janeiro,Jardim Botanico,Private room,283.07
+Cape Town,Ward 6,Private room,282.5
+Rio de Janeiro,Jardim Guanabara,Entire place,282.1
+Paris,Louvre,Hotel room,280.47
+Rio de Janeiro,Ribeira,Private room,280
+Istanbul,Besiktas,Private room,279.69
+Sydney,Mosman,Hotel room,279.5
+New York,Hell's Kitchen,Hotel room,278.57
+Istanbul,Umraniye,Shared room,278.25
+Rio de Janeiro,Olaria,Entire place,276.67
+Rio de Janeiro,Tijuca,Shared room,275.83
+Hong Kong,Sham Shui Po,Private room,275.7
+Paris,Bourse,Hotel room,275.41
+Cape Town,Ward 58,Shared room,274.5
+Rio de Janeiro,Engenho de Dentro,Private room,274.15
+New York,Bayside,Entire place,274.06
+Rio de Janeiro,Cosmos,Private room,274
+Rio de Janeiro,Saude,Shared room,274
+Rio de Janeiro,Camorim,Shared room,274
+Sydney,Sutherland Shire,Entire place,272.43
+Istanbul,Tuzla,Private room,272.35
+New York,Roosevelt Island,Entire place,270.63
+Rio de Janeiro,Rio Comprido,Shared room,270.25
+Istanbul,Sultanbeyli,Entire place,269.69
+Paris,Palais-Bourbon,Hotel room,269.49
+Rio de Janeiro,Anil,Private room,269.26
+Sydney,Liverpool,Shared room,268.5
+New York,Theater District,Entire place,268.41
+Rio de Janeiro,Leme,Private room,267.88
+Istanbul,Bakirkoy,Private room,266.67
+New York,Financial District,Hotel room,263.32
+Rio de Janeiro,Pavuna,Private room,262
+Mexico City,Xochimilco,Shared room,261.33
+Sydney,Randwick,Entire place,260.68
+Istanbul,Sisli,Private room,260.44
+Rio de Janeiro,Barra da Tijuca,Hotel room,260.44
+Rio de Janeiro,Campo Grande,Shared room,260
+Istanbul,Kadikoy,Hotel room,259
+Istanbul,Bagcilar,Shared room,258.38
+Rio de Janeiro,Guadalupe,Entire place,258
+New York,Tremont,Entire place,257.67
+Sydney,Leichhardt,Entire place,257.46
+Rio de Janeiro,Cosme Velho,Private room,256.53
+Cape Town,Ward 64,Shared room,255.83
+New York,Woodrow,Entire place,255
+Istanbul,Fatih,Shared room,254.79
+Istanbul,Beylikduzu,Shared room,254.5
+New York,Holliswood,Entire place,254.5
+New York,Kips Bay,Shared room,254.25
+Rio de Janeiro,Pilares,Entire place,252.67
+New York,Upper West Side,Entire place,252.33
+Rio de Janeiro,Sampaio,Entire place,251.67
+Rio de Janeiro,Santissimo,Entire place,251.33
+Paris,Gobelins,Hotel room,250.67
+New York,Randall Manor,Private room,250.5
+Cape Town,Ward 30,Private room,250
+Rio de Janeiro,Vasco da Gama,Entire place,250
+Sydney,Pittwater,Shared room,250
+Rio de Janeiro,Engenho da Rainha,Private room,250
+Rio de Janeiro,Acari,Entire place,250
+Cape Town,Ward 92,Shared room,250
+New York,Midtown,Hotel room,247.65
+Rio de Janeiro,Flamengo,Private room,247.49
+Sydney,Willoughby,Entire place,247.16
+Rio de Janeiro,Tijuca,Private room,246.08
+Rio de Janeiro,Ipanema,Shared room,245.75
+New York,Sheepshead Bay,Entire place,245.46
+Rio de Janeiro,Vargem Grande,Shared room,245.33
+Rio de Janeiro,Maracana,Shared room,245.29
+Rio de Janeiro,Gardenia Azul,Private room,245
+New York,Civic Center,Entire place,244.5
+Sydney,North Sydney,Entire place,243.95
+Rio de Janeiro,Penha,Private room,243.73
+Rio de Janeiro,Paqueta,Private room,243.17
+Sydney,Hornsby,Entire place,242.97
+Rio de Janeiro,Saude,Entire place,242.75
+Istanbul,Sancaktepe,Entire place,240.85
+New York,Midtown,Entire place,240.82
+Cape Town,Ward 78,Private room,240
+New York,Vinegar Hill,Entire place,239.78
+New York,Long Island City,Shared room,239.55
+Rio de Janeiro,Jacarepagua,Shared room,239.39
+New York,Theater District,Private room,237.73
+Rio de Janeiro,Meier,Private room,237.29
+New York,DUMBO,Entire place,237.25
+Paris,Passy,Hotel room,237.12
+Rio de Janeiro,Pechincha,Shared room,236.5
+Istanbul,Umraniye,Hotel room,236
+New York,NoHo,Entire place,235.56
+Rio de Janeiro,Leme,Shared room,234.95
+New York,SoHo,Hotel room,233.95
+New York,Chelsea,Entire place,233.9
+Sydney,Sydney,Hotel room,233.73
+Istanbul,Besiktas,Shared room,233.22
+Istanbul,Maltepe,Shared room,233.07
+New York,Long Island City,Entire place,232.3
+Cape Town,Ward 83,Shared room,232
+New York,West Village,Entire place,231.82
+Rio de Janeiro,Cascadura,Entire place,231.5
+Istanbul,Avcilar,Shared room,231
+New York,Woodlawn,Entire place,230.75
+New York,West Village,Shared room,230
+Istanbul,Uskudar,Private room,228.52
+Rio de Janeiro,Sao Francisco Xavier,Private room,228.38
+Sydney,Ku-Ring-Gai,Entire place,228.19
+New York,Gramercy,Entire place,228.19
+Rio de Janeiro,Parada de Lucas,Entire place,227.2
+Istanbul,Sisli,Shared room,227.07
+Istanbul,Bahcelievler,Shared room,226.33
+Rio de Janeiro,Saude,Hotel room,226
+Istanbul,Kagithane,Private room,225.12
+New York,Civic Center,Shared room,225
+Sydney,Penrith,Entire place,223.9
+Rio de Janeiro,Barros Filho,Private room,223.33
+Istanbul,Pendik,Private room,222.96
+New York,Clinton Hill,Entire place,222.44
+Rio de Janeiro,Grajau,Private room,221.81
+New York,Lower East Side,Entire place,221.76
+Rio de Janeiro,Lins de Vasconcelos,Private room,221.38
+Rio de Janeiro,Botafogo,Private room,220.45
+Sydney,Burwood,Hotel room,220
+Istanbul,Bayrampasa,Shared room,219.4
+Cape Town,Ward 57,Shared room,219
+Rio de Janeiro,Centro,Hotel room,218.9
+New York,Nolita,Entire place,218.46
+New York,Flushing,Shared room,218.29
+Rio de Janeiro,Santa Cruz,Private room,218.25
+Rio de Janeiro,Camorim,Private room,217.91
+New York,Jamaica Estates,Entire place,216.8
+Istanbul,Bayrampasa,Private room,216.64
+Rio de Janeiro,Catete,Shared room,216.56
+Sydney,Sydney,Entire place,216.52
+New York,Chinatown,Entire place,215.91
+Rio de Janeiro,Vargem Grande,Private room,213.5
+Rio de Janeiro,Laranjeiras,Private room,212.94
+Sydney,City Of Kogarah,Entire place,211.97
+Paris,Palais-Bourbon,Private room,211.48
+Sydney,Ku-Ring-Gai,Hotel room,211.25
+New York,Far Rockaway,Entire place,211.14
+Istanbul,Sancaktepe,Shared room,210.17
+Istanbul,Esenyurt,Private room,210.04
+Rio de Janeiro,Cascadura,Private room,210
+New York,Lighthouse Hill,Entire place,210
+Hong Kong,Tsuen Wan,Shared room,210
+Rio de Janeiro,Taua,Entire place,210
+Rio de Janeiro,Rio Comprido,Private room,209.86
+New York,Boerum Hill,Entire place,209.17
+Rio de Janeiro,Santa Teresa,Hotel room,208.35
+New York,Battery Park City,Entire place,207.68
+Rio de Janeiro,Vidigal,Private room,206.63
+New York,East Village,Entire place,206.28
+New York,Van Nest,Entire place,205
+New York,Morris Heights,Entire place,204.83
+New York,Financial District,Entire place,204.09
+Istanbul,Atasehir,Private room,203.89
+New York,Hell's Kitchen,Entire place,203.45
+Rio de Janeiro,Vila Valqueire,Private room,203.22
+Paris,Pantheon,Hotel room,203.05
+New York,Holliswood,Private room,203
+Rio de Janeiro,Encantado,Shared room,203
+Rio de Janeiro,Inhauma,Private room,202.5
+Paris,Menilmontant,Hotel room,201.5
+Rio de Janeiro,Tanque,Private room,201.14
+Cape Town,Ward 94,Entire place,200
+New York,Red Hook,Shared room,200
+New York,Springfield Gardens,Shared room,200
+Rio de Janeiro,Marechal Hermes,Entire place,200
+New York,Brighton Beach,Shared room,200
+New York,Belle Harbor,Entire place,200
+Sydney,Canada Bay,Entire place,199.94
+New York,Columbia St,Entire place,199.62
+Istanbul,Maltepe,Private room,199.47
+Paris,Luxembourg,Hotel room,199.41
+Rio de Janeiro,Higienopolis,Private room,199.33
+Rio de Janeiro,Rocha,Private room,199
+Rio de Janeiro,Guadalupe,Private room,197.67
+Rio de Janeiro,Del Castilho,Private room,197.4
+Paris,Batignolles-Monceau,Hotel room,195.88
+Rio de Janeiro,Curicica,Private room,195.86
+Paris,Elysee,Entire place,195.59
+New York,Brooklyn Heights,Entire place,195.4
+New York,Carroll Gardens,Entire place,195.08
+New York,Midtown,Private room,194.7
+New York,Kips Bay,Entire place,194.28
+Istanbul,Kadikoy,Private room,194.12
+New York,Greenpoint,Hotel room,193
+Paris,Popincourt,Hotel room,192.8
+Rio de Janeiro,Rocha Miranda,Private room,192.5
+New York,Park Slope,Entire place,192
+Sydney,Holroyd,Entire place,191.97
+New York,Eastchester,Entire place,191.89
+Istanbul,Gaziosmanpasa,Private room,191.19
+Rio de Janeiro,Catete,Private room,190.58
+New York,Prospect Heights,Entire place,190.55
+New York,Brownsville,Entire place,190.21
+New York,Cobble Hill,Entire place,189.81
+New York,Lower East Side,Hotel room,189.71
+New York,Upper East Side,Entire place,189.21
+New York,Murray Hill,Entire place,188.9
+Rio de Janeiro,Rocha,Shared room,188.67
+New York,Eltingville,Entire place,188
+Sydney,Blacktown,Entire place,187.56
+Rio de Janeiro,Botafogo,Shared room,186.94
+Sydney,Bankstown,Entire place,186.74
+Rio de Janeiro,Pedra de Guaratiba,Private room,186.67
+New York,Forest Hills,Entire place,186.16
+Rio de Janeiro,Vila Isabel,Private room,186.04
+New York,Williamsburg,Entire place,186.01
+New York,Fort Greene,Entire place,185.02
+Rio de Janeiro,Olaria,Shared room,185
+New York,Stapleton,Entire place,184.5
+Sydney,Botany Bay,Entire place,184.44
+Istanbul,Sultanbeyli,Private room,183
+Istanbul,Bahcelievler,Private room,182.67
+New York,Red Hook,Entire place,182.04
+Istanbul,Beyoglu,Shared room,181.93
+Rio de Janeiro,Pilares,Private room,181.6
+Paris,Opera,Hotel room,181.54
+New York,Queens Village,Entire place,180.97
+Rio de Janeiro,Bento Ribeiro,Entire place,180.67
+New York,Gowanus,Entire place,180.6
+Sydney,Camden,Entire place,180.35
+Rio de Janeiro,Jardim Sulacap,Shared room,180
+New York,Huguenot,Entire place,180
+Rio de Janeiro,Cocota,Entire place,180
+Cape Town,Ward 50,Private room,180
+Istanbul,Tuzla,Hotel room,180
+Rio de Janeiro,Agua Santa,Entire place,180
+Cape Town,Ward 29,Shared room,180
+Rio de Janeiro,Praca da Bandeira,Private room,179.8
+New York,Fort Hamilton,Shared room,179
+Rio de Janeiro,Humaita,Shared room,178.5
+New York,Belle Harbor,Private room,178
+Rio de Janeiro,Vigario Geral,Entire place,177
+New York,Bay Terrace,Entire place,176
+Sydney,Rockdale,Entire place,175.44
+Rio de Janeiro,Bancarios,Entire place,175
+Rio de Janeiro,Inhoaiba,Private room,175
+Rio de Janeiro,Grajau,Shared room,175
+New York,Flushing,Entire place,174.78
+Paris,Elysee,Private room,173.67
+Paris,Louvre,Entire place,173.63
+Rio de Janeiro,Madureira,Entire place,173.4
+New York,East Harlem,Entire place,172.88
+Rio de Janeiro,Humaita,Private room,172.05
+Rio de Janeiro,Penha,Entire place,172
+New York,South Slope,Entire place,171.37
+Sydney,Marrickville,Entire place,170.88
+New York,Allerton,Entire place,170.5
+Sydney,Liverpool,Entire place,170.47
+New York,Middle Village,Entire place,169.78
+Sydney,Woollahra,Private room,169.75
+New York,Sunset Park,Entire place,169.61
+Rio de Janeiro,Lagoa,Shared room,169.5
+New York,Fresh Meadows,Entire place,169.5
+Istanbul,Avcilar,Hotel room,168.33
+Paris,Passy,Entire place,167.15
+Rio de Janeiro,Andarai,Private room,166.6
+Rio de Janeiro,Cidade Universitaria,Entire place,166.33
+Istanbul,Buyukcekmece,Shared room,166
+New York,Grymes Hill,Entire place,165.67
+Sydney,Willoughby,Private room,165.28
+Paris,Observatoire,Hotel room,164.9
+New York,St. Albans,Entire place,164.44
+Rio de Janeiro,Riachuelo,Private room,164.38
+New York,Edgemere,Entire place,164.2
+New York,Little Italy,Entire place,164.15
+New York,Greenpoint,Entire place,163.9
+New York,Unionport,Entire place,163.5
+Sydney,Ashfield,Entire place,163.31
+New York,Elmhurst,Entire place,163.13
+Istanbul,Kartal,Private room,163.08
+New York,Brooklyn Heights,Private room,162.9
+New York,Astoria,Entire place,162.47
+New York,Harlem,Entire place,162.13
+Istanbul,Sultangazi,Private room,161.56
+New York,Cambria Heights,Entire place,161.5
+Paris,Luxembourg,Entire place,161.5
+Istanbul,Pendik,Shared room,160.93
+New York,Bay Ridge,Entire place,160.81
+New York,Rego Park,Entire place,160.8
+New York,Randall Manor,Entire place,160.56
+New York,Downtown Brooklyn,Entire place,160.31
+Rio de Janeiro,Engenho Novo,Private room,160.17
+Sydney,Hurstville,Entire place,160.13
+Rio de Janeiro,Zumbi,Entire place,160
+Sydney,Auburn,Private room,159.79
+Istanbul,Uskudar,Shared room,159.65
+Rio de Janeiro,Botafogo,Hotel room,159.43
+Rio de Janeiro,Vasco da Gama,Private room,159.2
+Istanbul,Esenyurt,Shared room,158.78
+Rio de Janeiro,Urca,Shared room,158.67
+Sydney,Pittwater,Private room,158.66
+Sydney,Auburn,Entire place,158.65
+Rio de Janeiro,Vila Isabel,Shared room,158
+New York,Greenwich Village,Private room,157.96
+Sydney,Ryde,Entire place,157.7
+New York,Wakefield,Entire place,157.61
+New York,Rockaway Beach,Entire place,156.91
+Istanbul,Bakirkoy,Shared room,156.9
+New York,Crown Heights,Entire place,156.45
+Sydney,Strathfield,Entire place,156.38
+New York,College Point,Entire place,156.38
+Rio de Janeiro,Penha Circular,Entire place,155.67
+New York,Windsor Terrace,Entire place,155.48
+Paris,Enclos-St-Laurent,Hotel room,155.36
+New York,Flatbush,Entire place,154.87
+New York,Edenwald,Entire place,154.8
+Istanbul,Tuzla,Shared room,154.25
+Istanbul,Eyup,Shared room,154.2
+New York,Howard Beach,Entire place,153.64
+New York,Bedford-Stuyvesant,Entire place,153.48
+Sydney,Sydney,Private room,152.87
+New York,Howland Hook,Entire place,152.5
+Istanbul,Avcilar,Private room,152.17
+New York,Morningside Heights,Entire place,151.91
+New York,City Island,Entire place,151.88
+New York,Fordham,Entire place,151.2
+New York,Whitestone,Entire place,151.2
+Paris,Bourse,Entire place,150.91
+New York,Jamaica,Entire place,150.63
+Rome,X Ostia/Acilia,Shared room,150.2
+Istanbul,Sultangazi,Shared room,150
+Rio de Janeiro,Magalhaes Bastos,Entire place,150
+Rio de Janeiro,Mare,Private room,150
+Rio de Janeiro,Alto da Boa Vista,Shared room,150
+New York,Pelham Bay,Shared room,150
+New York,Corona,Entire place,149.57
+New York,Tribeca,Private room,148.48
+Istanbul,Gaziosmanpasa,Hotel room,148
+Rio de Janeiro,Vila da Penha,Private room,147.67
+Rio de Janeiro,Praca da Bandeira,Shared room,147.67
+New York,Pelham Bay,Entire place,147.13
+New York,Jamaica Hills,Entire place,145.75
+Paris,Palais-Bourbon,Entire place,145.62
+New York,Kensington,Entire place,145.35
+New York,Canarsie,Shared room,145
+New York,Shore Acres,Entire place,145
+New York,Navy Yard,Entire place,144.5
+New York,Chinatown,Hotel room,144.5
+Sydney,Canterbury,Entire place,144.46
+New York,Port Morris,Entire place,144.17
+Istanbul,Esenler,Private room,144.04
+Rio de Janeiro,Freguesia (Jacarepagua),Shared room,143.8
+Sydney,Randwick,Hotel room,143.61
+Sydney,Parramatta,Entire place,143.6
+Paris,Hotel-de-Ville,Entire place,143.44
+Rio de Janeiro,Estacio,Private room,142.85
+Paris,Vaugirard,Hotel room,142.54
+Istanbul,Kadikoy,Shared room,142.38
+New York,Maspeth,Entire place,142.14
+Paris,Buttes-Montmartre,Hotel room,142.09
+Sydney,Waverley,Hotel room,142
+New York,Bellerose,Entire place,141
+New York,Bushwick,Entire place,140.79
+Sydney,Mosman,Private room,140.36
+Rio de Janeiro,Complexo do Alemao,Private room,140
+New York,Fort Greene,Shared room,140
+Sydney,Burwood,Entire place,139.97
+New York,West Brighton,Entire place,139.8
+New York,Greenwich Village,Hotel room,139.5
+New York,Prospect-Lefferts Gardens,Entire place,139.06
+Sydney,Hunters Hill,Private room,139
+Paris,Temple,Entire place,138.81
+Paris,Louvre,Private room,138.22
+New York,Woodside,Entire place,137.77
+Rio de Janeiro,Monero,Private room,137.5
+Sydney,Botany Bay,Shared room,137.38
+New York,Kew Gardens,Entire place,136.9
+Istanbul,Kucukcekmece,Shared room,136.67
+Rio de Janeiro,Pitangueiras,Entire place,136.5
+New York,Richmond Hill,Entire place,136.11
+Rio de Janeiro,Abolicao,Shared room,136
+Rio de Janeiro,Lins de Vasconcelos,Entire place,135.83
+New York,West Village,Private room,135.24
+New York,Two Bridges,Entire place,135
+New York,Midland Beach,Entire place,135
+Rio de Janeiro,Marechal Hermes,Shared room,135
+New York,Westerleigh,Entire place,134.5
+Sydney,Ashfield,Private room,134.45
+New York,Fort Hamilton,Entire place,134.07
+Istanbul,Kagithane,Shared room,134
+New York,Canarsie,Entire place,133.97
+New York,Springfield Gardens,Entire place,133.68
+New York,Murray Hill,Private room,133.13
+Sydney,North Sydney,Private room,132.93
+Rio de Janeiro,Jardim Guanabara,Private room,132.84
+Rio de Janeiro,Sao Francisco Xavier,Shared room,132.5
+New York,Williamsbridge,Entire place,132.47
+Rome,I Centro Storico,Entire place,132.07
+Rio de Janeiro,Cidade Nova,Private room,132
+New York,Washington Heights,Entire place,131.4
+New York,SoHo,Private room,131.32
+New York,Brighton Beach,Entire place,130.58
+Rio de Janeiro,Cordovil,Private room,130.5
+Rio de Janeiro,Santissimo,Private room,130.4
+Rio de Janeiro,Jardim Guanabara,Shared room,130
+New York,New Dorp Beach,Entire place,130
+New York,NoHo,Private room,130
+Istanbul,Sultanbeyli,Shared room,130
+New York,Rosebank,Entire place,130
+Sydney,Fairfield,Entire place,129.81
+New York,Mount Hope,Entire place,129.67
+New York,East Flatbush,Entire place,129.61
+Paris,Hotel-de-Ville,Private room,129.58
+New York,Parkchester,Entire place,129.56
+New York,Bergen Beach,Entire place,129.5
+Paris,Observatoire,Private room,129.39
+Rio de Janeiro,Pitangueiras,Private room,128.5
+New York,Oakwood,Private room,128
+Rio de Janeiro,Bras de Pina,Private room,127.93
+New York,Sunnyside,Entire place,127.76
+New York,Tompkinsville,Entire place,127.13
+Sydney,Campbelltown,Private room,127.05
+Rio de Janeiro,Vila da Penha,Shared room,127
+New York,Arrochar,Entire place,126.71
+Rio de Janeiro,Maracana,Hotel room,126.5
+New York,Concord,Entire place,126.25
+New York,DUMBO,Private room,126.1
+New York,Dongan Hills,Entire place,126
+New York,East Morrisania,Entire place,126
+New York,East Village,Private room,125.73
+New York,Chelsea,Private room,125.01
+New York,Arden Heights,Entire place,125
+Rio de Janeiro,Monero,Entire place,125
+New York,Mill Basin,Shared room,125
+New York,Harlem,Hotel room,125
+New York,Mill Basin,Entire place,125
+New York,Olinville,Entire place,125
+New York,Marble Hill,Entire place,124.75
+New York,Ridgewood,Entire place,124.73
+New York,Astoria,Shared room,124.5
+New York,New Springville,Entire place,124.5
+New York,Hell's Kitchen,Private room,123.71
+New York,Mott Haven,Entire place,123.55
+Sydney,North Sydney,Hotel room,123.5
+New York,Kew Gardens Hills,Entire place,123.2
+New York,Castleton Corners,Entire place,123
+New York,Richmond Hill,Shared room,123
+New York,South Ozone Park,Entire place,122.7
+Rome,I Centro Storico,Private room,122.68
+New York,Ditmars Steinway,Entire place,122.22
+New York,Flatlands,Entire place,121.87
+New York,Mariners Harbor,Entire place,121.83
+Paris,Pantheon,Entire place,121.69
+Rio de Janeiro,Coelho Neto,Entire place,121.5
+Istanbul,Sancaktepe,Private room,121.44
+Rio de Janeiro,Ramos,Private room,121.33
+Sydney,Leichhardt,Private room,121.02
+New York,East Elmhurst,Entire place,120.82
+Rio de Janeiro,Copacabana,Hotel room,120.71
+New York,Kips Bay,Private room,120.35
+New York,Rosedale,Entire place,120.12
+Hong Kong,Kwun Tong,Shared room,120
+New York,South Slope,Shared room,120
+Rio de Janeiro,Vidigal,Shared room,119.61
+New York,Park Slope,Hotel room,119
+New York,Gravesend,Entire place,118.81
+New York,Vinegar Hill,Private room,118.2
+New York,Throgs Neck,Entire place,118.2
+New York,Carroll Gardens,Private room,117.43
+New York,Ozone Park,Entire place,117.35
+Paris,Opera,Private room,117.27
+New York,Jackson Heights,Entire place,117.19
+Rome,II Parioli/Nomentano,Private room,116.82
+New York,North Riverdale,Entire place,116.67
+Sydney,Warringah,Hotel room,116.6
+New York,West Village,Hotel room,116.29
+New York,Laurelton,Entire place,116.27
+Rio de Janeiro,Laranjeiras,Shared room,116.14
+New York,Clason Point,Entire place,115.63
+New York,Longwood,Entire place,115.62
+Sydney,Penrith,Private room,115.47
+Paris,Opera,Entire place,115.15
+Rio de Janeiro,Parque Anchieta,Private room,115
+Rio de Janeiro,Saude,Private room,114.89
+New York,East New York,Entire place,114.78
+New York,Long Island City,Hotel room,114.71
+New York,Spuyten Duyvil,Entire place,114.5
+Paris,Bourse,Private room,114.02
+Rio de Janeiro,Bancarios,Private room,114
+Sydney,Marrickville,Hotel room,113.5
+Istanbul,Atasehir,Shared room,113.38
+New York,Stapleton,Private room,113.17
+New York,Woodhaven,Entire place,113.1
+New York,Clifton,Entire place,112.83
+New York,St. George,Entire place,112.76
+Paris,Hotel-de-Ville,Shared room,112.55
+Rio de Janeiro,Encantado,Private room,112.43
+New York,Jamaica Estates,Shared room,112.2
+New York,Bayside,Hotel room,112
+Sydney,Willoughby,Hotel room,112
+New York,Oakwood,Entire place,112
+Rome,IX Eur,Hotel room,111.95
+Sydney,Manly,Private room,111.92
+Rome,XV Cassia/Flaminia,Entire place,111.91
+New York,Upper East Side,Private room,111.01
+New York,Graniteville,Entire place,111
+New York,Morrisania,Entire place,110.67
+New York,Briarwood,Entire place,110.43
+New York,Bath Beach,Entire place,110.22
+New York,Flatiron District,Hotel room,110
+Rio de Janeiro,Gericino,Private room,110
+New York,Mount Eden,Entire place,110
+New York,University Heights,Entire place,110
+Rio de Janeiro,Curicica,Shared room,109.83
+New York,Pelham Gardens,Entire place,109.4
+New York,Borough Park,Entire place,108.77
+Rio de Janeiro,Taua,Private room,108.25
+Rio de Janeiro,Sampaio,Shared room,108
+New York,Edenwald,Private room,107.73
+Paris,Vaugirard,Entire place,107.54
+New York,Mount Eden,Private room,107.5
+New York,New Dorp,Entire place,107.5
+Rio de Janeiro,Portuguesa,Private room,107.44
+Sydney,Canada Bay,Private room,107.28
+Rio de Janeiro,Cachambi,Private room,107
+Rome,II Parioli/Nomentano,Entire place,106.69
+Rome,XIII Aurelia,Entire place,106.64
+Paris,Enclos-St-Laurent,Entire place,106.57
+Paris,Pantheon,Private room,106.54
+New York,Bensonhurst,Entire place,106.38
+Sydney,Strathfield,Private room,106.19
+New York,Douglaston,Entire place,106
+Rome,I Centro Storico,Hotel room,105.77
+Paris,Gobelins,Entire place,105.68
+New York,Downtown Brooklyn,Private room,105.33
+New York,Kingsbridge,Entire place,105.21
+New York,Chinatown,Shared room,105
+New York,Richmondtown,Private room,105
+New York,Highbridge,Entire place,104.91
+New York,Baychester,Entire place,104.88
+New York,Cobble Hill,Private room,104.83
+New York,Hell's Kitchen,Shared room,104.81
+New York,Norwood,Entire place,104.8
+Rio de Janeiro,Vicente de Carvalho,Private room,104.75
+New York,Concourse,Entire place,104.39
+New York,Financial District,Private room,104.26
+Sydney,Warringah,Private room,103.92
+New York,Hollis,Entire place,103.8
+Rio de Janeiro,Jardim Carioca,Private room,103.25
+Paris,Luxembourg,Private room,103.18
+New York,Dyker Heights,Entire place,102.71
+New York,Rockaway Beach,Private room,102.58
+Sydney,The Hills Shire,Shared room,102.5
+New York,Gowanus,Hotel room,102
+New York,Shore Acres,Private room,102
+New York,Upper West Side,Private room,101.87
+Rome,XI Arvalia/Portuense,Hotel room,101.67
+Paris,Reuilly,Hotel room,101.38
+Paris,Batignolles-Monceau,Entire place,100.85
+New York,Williamsburg,Shared room,100.3
+Sydney,Waverley,Private room,100.3
+Rome,IX Eur,Entire place,100.17
+Sydney,Botany Bay,Private room,100.05
+New York,Todt Hill,Private room,100
+New York,SoHo,Shared room,100
+Rio de Janeiro,Cachambi,Shared room,100
+Rio de Janeiro,Anil,Shared room,100
+Rio de Janeiro,Praia da Bandeira,Entire place,100
+New York,Astoria,Hotel room,100
+Sydney,Canterbury,Shared room,99.8
+New York,Battery Park City,Private room,99.58
+Rio de Janeiro,Praca Seca,Private room,99.54
+New York,Midwood,Entire place,99.52
+New York,Inwood,Entire place,99.32
+New York,Stuyvesant Town,Private room,99.19
+Rio de Janeiro,Taquara,Hotel room,99
+New York,Great Kills,Entire place,99
+Rio de Janeiro,Estacio,Hotel room,99
+Paris,Vaugirard,Private room,98.82
+Rio de Janeiro,Gloria,Shared room,98.71
+New York,Morris Park,Entire place,98.43
+New York,Coney Island,Entire place,98.43
+Paris,Batignolles-Monceau,Private room,98.11
+New York,Glendale,Entire place,98
+Rio de Janeiro,Andarai,Shared room,97.75
+New York,Columbia St,Private room,97.5
+New York,Park Slope,Private room,97.47
+Sydney,Randwick,Private room,97.17
+Paris,Observatoire,Entire place,96.21
+New York,Boerum Hill,Private room,95.7
+New York,Sea Gate,Private room,95.6
+New York,Nolita,Private room,95.38
+Rio de Janeiro,Vasco da Gama,Shared room,95
+Hong Kong,North,Shared room,95
+New York,Bay Terrace,Private room,94.5
+Rio de Janeiro,Quintino Bocaiuva,Private room,94.5
+Sydney,Sutherland Shire,Private room,94.47
+New York,Midtown,Shared room,94.17
+New York,City Island,Private room,94
+Paris,Reuilly,Entire place,93.98
+Paris,Popincourt,Entire place,93.82
+Rome,XII Monte Verde,Entire place,93.78
+New York,St. Albans,Private room,93.65
+New York,Manhattan Beach,Entire place,93.25
+New York,Grant City,Entire place,93
+Rome,XIII Aurelia,Hotel room,92.8
+Sydney,Parramatta,Hotel room,92.5
+New York,Wakefield,Private room,92.34
+New York,Clinton Hill,Private room,91.84
+Sydney,Lane Cove,Private room,91.72
+Sydney,Warringah,Shared room,91.67
+New York,Murray Hill,Hotel room,91.56
+New York,Little Neck,Entire place,91
+Sydney,Ku-Ring-Gai,Private room,90.97
+Paris,Passy,Private room,90.84
+New York,Norwood,Private room,90.42
+New York,Arverne,Private room,90.3
+Rome,XIV Monte Mario,Entire place,90.15
+Rio de Janeiro,Cacuia,Private room,90
+Rio de Janeiro,Paqueta,Shared room,90
+Rio de Janeiro,Mangueira,Private room,90
+New York,Little Neck,Private room,90
+New York,Kew Gardens Hills,Shared room,90
+New York,Sheepshead Bay,Private room,89.79
+New York,Canarsie,Private room,89.64
+New York,Upper East Side,Shared room,89.61
+Paris,Buttes-Montmartre,Entire place,89.4
+New York,Claremont Village,Entire place,89.29
+Paris,Temple,Private room,89.1
+New York,Shore Acres,Shared room,89
+New York,South Beach,Entire place,89
+New York,Howard Beach,Private room,88.6
+Rio de Janeiro,Madureira,Private room,88
+New York,Upper West Side,Shared room,87.77
+Rome,IV Tiburtina,Entire place,87.63
+Paris,Buttes-Chaumont,Entire place,87.51
+New York,Bergen Beach,Private room,87.5
+Sydney,Parramatta,Shared room,87.29
+New York,Silver Lake,Entire place,87
+Rio de Janeiro,Maria da Graca,Private room,86.83
+New York,Gramercy,Private room,86.4
+New York,Harlem,Shared room,85.84
+Rome,III Monte Sacro,Entire place,85.7
+New York,Westchester Square,Entire place,85.5
+New York,Ozone Park,Private room,85
+New York,Briarwood,Shared room,85
+New York,Country Club,Private room,85
+New York,Civic Center,Private room,85
+Rio de Janeiro,Leme,Hotel room,85
+New York,Chinatown,Private room,84.63
+Rome,XV Cassia/Flaminia,Hotel room,84.31
+Sydney,Manly,Shared room,84.17
+Sydney,Camden,Private room,84.07
+New York,Mott Haven,Private room,84.07
+Sydney,Bankstown,Shared room,83.75
+Rome,VIII Appia Antica,Entire place,83.63
+Sydney,Parramatta,Private room,83.39
+New York,Little Italy,Private room,83.33
+Rio de Janeiro,Barros Filho,Entire place,83
+New York,Belmont,Entire place,83
+Istanbul,Zeytinburnu,Shared room,83
+New York,Todt Hill,Entire place,82.5
+New York,Fresh Meadows,Private room,82.45
+New York,Bronxdale,Entire place,82.43
+Rio de Janeiro,Galeao,Entire place,82.33
+Rome,XI Arvalia/Portuense,Entire place,82
+Sydney,Rockdale,Private room,81.8
+New York,Longwood,Private room,81.54
+New York,Roosevelt Island,Private room,81.41
+Rome,VI Roma delle Torri,Entire place,81.06
+Rome,VII San Giovanni/Cinecitta,Entire place,81.05
+Sydney,Fairfield,Private room,81.02
+Rio de Janeiro,Mangueira,Shared room,81
+New York,Bayswater,Private room,80.54
+Rio de Janeiro,Iraja,Shared room,80.5
+New York,Fresh Meadows,Shared room,80
+New York,Clifton,Private room,80
+New York,Midland Beach,Private room,80
+New York,Far Rockaway,Shared room,80
+Rio de Janeiro,Praca da Bandeira,Hotel room,80
+New York,Rossville,Entire place,80
+Rio de Janeiro,Bangu,Shared room,80
+New York,Coney Island,Shared room,80
+New York,Pelham Gardens,Private room,79.92
+Paris,Menilmontant,Entire place,79.5
+New York,Lower East Side,Shared room,79.45
+New York,East Morrisania,Private room,79.43
+New York,Two Bridges,Private room,79.43
+Rio de Janeiro,Padre Miguel,Private room,79.33
+Istanbul,Esenler,Shared room,79.32
+New York,East Harlem,Private room,79.27
+New York,Concourse Village,Entire place,79.2
+Sydney,Rockdale,Shared room,79.19
+New York,South Ozone Park,Private room,79.12
+New York,St. George,Shared room,79
+New York,Cobble Hill,Shared room,79
+New York,Co-op City,Private room,78.8
+New York,Williamsburg,Private room,78.53
+New York,Rego Park,Private room,78.48
+Rio de Janeiro,Sao Conrado,Shared room,78.36
+New York,Morningside Heights,Private room,78.13
+Rio de Janeiro,Penha Circular,Shared room,78
+Rome,III Monte Sacro,Hotel room,77.82
+New York,Greenpoint,Private room,77.6
+Sydney,Canterbury,Private room,77.56
+New York,Morris Heights,Private room,77.53
+New York,Financial District,Shared room,77.5
+Istanbul,Cekmekoy,Shared room,77.5
+Sydney,Bankstown,Private room,77.35
+Paris,Batignolles-Monceau,Shared room,77.16
+New York,Whitestone,Private room,77
+New York,Navy Yard,Private room,77
+Rome,X Ostia/Acilia,Entire place,76.84
+Sydney,Burwood,Private room,76.68
+New York,Nolita,Shared room,76.67
+New York,Harlem,Private room,76.5
+Sydney,Liverpool,Private room,76.24
+New York,Gowanus,Private room,76.18
+Istanbul,Catalca,Shared room,76
+New York,Middle Village,Private room,76
+Rio de Janeiro,Rocinha,Shared room,76
+New York,Kew Gardens,Private room,75.91
+New York,Long Island City,Private room,75.37
+Sydney,The Hills Shire,Private room,75.02
+New York,Bayswater,Entire place,75
+New York,Flatlands,Private room,74.81
+New York,Kingsbridge,Private room,74.53
+New York,South Slope,Private room,74.25
+New York,Fort Hamilton,Private room,74.2
+Sydney,Ryde,Private room,74.17
+New York,East Village,Shared room,74.14
+Rome,V Prenestino/Centocelle,Hotel room,74
+New York,Parkchester,Private room,73.89
+New York,Forest Hills,Private room,73.81
+New York,Chelsea,Shared room,73.62
+Rio de Janeiro,Meier,Shared room,73.5
+Paris,Enclos-St-Laurent,Private room,73.41
+New York,Fort Greene,Private room,73.34
+New York,Far Rockaway,Private room,73.25
+New York,Melrose,Entire place,73
+Sydney,Willoughby,Shared room,72.75
+New York,Ditmars Steinway,Shared room,72.5
+New York,Woodside,Shared room,72.5
+New York,Cypress Hills,Shared room,72
+New York,Parkchester,Shared room,72
+Rio de Janeiro,Bras de Pina,Entire place,72
+Sydney,Manly,Hotel room,72
+New York,Great Kills,Private room,72
+New York,Bellerose,Private room,72
+New York,Hunts Point,Entire place,71.83
+New York,New Dorp Beach,Private room,71.67
+Sydney,Marrickville,Private room,71.67
+New York,Soundview,Entire place,71.67
+New York,Stuyvesant Town,Shared room,71.67
+New York,Castle Hill,Entire place,71
+New York,North Riverdale,Private room,70.75
+New York,Forest Hills,Shared room,70.5
+New York,Rosebank,Private room,70.5
+Rome,VII San Giovanni/Cinecitta,Hotel room,70.17
+Rio de Janeiro,Honorio Gurgel,Entire place,70
+Rio de Janeiro,Vila da Penha,Entire place,70
+New York,Prospect Heights,Private room,69.86
+New York,Cambria Heights,Private room,69.33
+New York,Concourse,Private room,69.32
+New York,Morris Park,Private room,69.25
+Rome,IV Tiburtina,Hotel room,69.2
+New York,Crown Heights,Shared room,69.11
+Sydney,Sutherland Shire,Shared room,69
+New York,Douglaston,Private room,69
+Paris,Passy,Shared room,68.9
+New York,Astoria,Private room,68.89
+New York,Bayside,Private room,68.84
+Rio de Janeiro,Bras de Pina,Shared room,68.67
+New York,Arrochar,Private room,68.56
+Rio de Janeiro,Tomas Coelho,Private room,68.5
+Sydney,City Of Kogarah,Private room,68.47
+New York,Springfield Gardens,Private room,68.27
+Rio de Janeiro,Penha Circular,Private room,68.25
+New York,Richmondtown,Entire place,68
+Rio de Janeiro,Leblon,Shared room,68
+New York,New Springville,Private room,68
+New York,Rego Park,Shared room,68
+Sydney,Auburn,Shared room,67.78
+New York,Downtown Brooklyn,Shared room,67.5
+Rio de Janeiro,Bonsucesso,Private room,67.21
+New York,Crown Heights,Private room,66.6
+New York,Riverdale,Private room,66.5
+New York,Emerson Hill,Private room,66.5
+Rome,II Parioli/Nomentano,Hotel room,66.23
+New York,Ditmars Steinway,Private room,66.16
+Rome,XII Monte Verde,Shared room,66.08
+New York,Theater District,Shared room,66
+New York,Bedford-Stuyvesant,Private room,65.81
+Rome,IX Eur,Shared room,65.75
+Rome,XIII Aurelia,Private room,65.6
+New York,Claremont Village,Private room,65.56
+Sydney,Hornsby,Private room,65.52
+New York,Van Nest,Private room,65.5
+Rio de Janeiro,Rocinha,Private room,65.4
+Rome,XV Cassia/Flaminia,Private room,65.08
+New York,Richmond Hill,Private room,65.05
+Sydney,Blacktown,Private room,65.04
+New York,West Farms,Private room,65
+Sydney,Blacktown,Shared room,65
+Sydney,Ku-Ring-Gai,Shared room,65
+Rio de Janeiro,Ramos,Shared room,65
+Rio de Janeiro,Vargem Pequena,Hotel room,65
+New York,Gravesend,Private room,65
+New York,Brighton Beach,Private room,64.92
+New York,East Flatbush,Private room,64.74
+New York,Flushing,Private room,64.68
+New York,Fordham,Private room,64.62
+Rio de Janeiro,Senador Camara,Private room,64.33
+Paris,Louvre,Shared room,63.83
+Paris,Palais-Bourbon,Shared room,63.83
+New York,Fordham,Shared room,63.75
+New York,Rosedale,Private room,63.74
+New York,Washington Heights,Private room,63.62
+New York,Baychester,Private room,63.6
+New York,Hollis,Private room,63.4
+Paris,Buttes-Montmartre,Private room,63.36
+New York,East New York,Shared room,63.33
+New York,St. George,Private room,63.25
+Sydney,Hurstville,Private room,63.24
+Rio de Janeiro,Parada de Lucas,Private room,63
+New York,Fieldston,Private room,63
+New York,Red Hook,Private room,62.78
+New York,East Flatbush,Shared room,62.73
+New York,Windsor Terrace,Private room,62.7
+New York,Brownsville,Private room,62.63
+Paris,Gobelins,Private room,62.53
+New York,Flatbush,Private room,62.53
+Rio de Janeiro,Parque Anchieta,Shared room,62.5
+New York,Concourse,Shared room,62.5
+Paris,Buttes-Montmartre,Shared room,62.42
+New York,Prospect-Lefferts Gardens,Private room,62.34
+New York,South Beach,Private room,62
+New York,Maspeth,Private room,61.87
+Sydney,Holroyd,Shared room,61.67
+New York,Olinville,Private room,61.67
+Sydney,Ryde,Shared room,61.42
+New York,Tremont,Private room,61.4
+New York,Bushwick,Private room,61.39
+New York,Williamsbridge,Private room,61.33
+New York,Jamaica,Private room,61.26
+Sydney,Canada Bay,Shared room,61.25
+New York,Sunset Park,Private room,61.16
+New York,Concord,Private room,61
+New York,Coney Island,Private room,61
+New York,Bay Ridge,Private room,60.82
+New York,Kew Gardens Hills,Private room,60.67
+New York,College Point,Private room,60.64
+Rome,X Ostia/Acilia,Hotel room,60.6
+New York,Bath Beach,Private room,60.5
+Rio de Janeiro,Coelho Neto,Private room,60.5
+Rome,XIV Monte Mario,Private room,60.48
+Sydney,North Sydney,Shared room,60.2
+Rio de Janeiro,Flamengo,Shared room,60.15
+Sydney,Mosman,Shared room,60
+Rio de Janeiro,Bonsucesso,Shared room,60
+New York,Bull's Head,Entire place,60
+New York,Unionport,Private room,60
+Rio de Janeiro,Piedade,Shared room,60
+Sydney,Lane Cove,Hotel room,60
+New York,Midwood,Private room,59.95
+New York,Jamaica Hills,Private room,59.83
+New York,West Brighton,Private room,59.71
+Paris,Reuilly,Private room,59.7
+New York,Eastchester,Private room,59.4
+Paris,Buttes-Chaumont,Private room,59.35
+Sydney,Waverley,Shared room,59.23
+Rome,X Ostia/Acilia,Private room,59.08
+New York,Clason Point,Private room,59
+New York,East New York,Private room,58.92
+Rome,V Prenestino/Centocelle,Entire place,58.92
+New York,Sunnyside,Private room,58.7
+Paris,Pantheon,Shared room,58.67
+Rio de Janeiro,Gavea,Shared room,58.5
+New York,Throgs Neck,Private room,58.1
+New York,Cypress Hills,Private room,58.03
+New York,Westchester Square,Private room,58
+New York,Allerton,Private room,57.72
+New York,Emerson Hill,Entire place,57.5
+Rio de Janeiro,Engenho Novo,Shared room,57.5
+New York,Mill Basin,Private room,57.5
+Paris,Bourse,Shared room,57.1
+Sydney,Randwick,Shared room,57.05
+New York,Borough Park,Private room,56.66
+New York,Clinton Hill,Shared room,56.33
+New York,Ridgewood,Private room,56.31
+New York,Corona,Private room,56.17
+Rome,VIII Appia Antica,Hotel room,56.06
+Rome,XII Monte Verde,Private room,56.05
+Rio de Janeiro,Coelho Neto,Shared room,56
+New York,Bensonhurst,Private room,55.97
+Paris,Popincourt,Private room,55.83
+New York,East Elmhurst,Private room,55.8
+Rome,XIV Monte Mario,Hotel room,55.75
+New York,Inwood,Private room,55.74
+Paris,Temple,Shared room,55.71
+New York,Greenwich Village,Shared room,55.67
+New York,Concourse Village,Private room,55.25
+New York,Norwood,Shared room,55
+Sydney,Hurstville,Shared room,54.25
+New York,Kensington,Private room,54.13
+New York,Laurelton,Private room,54.06
+Rio de Janeiro,Deodoro,Private room,54
+New York,Port Richmond,Entire place,54
+New York,East Elmhurst,Shared room,54
+Rome,IV Tiburtina,Shared room,53.71
+New York,Tompkinsville,Private room,53.67
+Rome,VIII Appia Antica,Private room,53.58
+New York,Bronxdale,Private room,53.55
+New York,Jackson Heights,Shared room,53.33
+New York,Mariners Harbor,Private room,53.2
+New York,Jackson Heights,Private room,53.11
+New York,Eltingville,Private room,53
+New York,East Harlem,Shared room,52.89
+New York,Woodhaven,Private room,52.81
+New York,Schuylerville,Private room,52.78
+New York,Ozone Park,Shared room,52.75
+New York,Concourse Village,Shared room,52
+Paris,Vaugirard,Shared room,51.78
+New York,Gowanus,Shared room,51.75
+New York,Queens Village,Private room,51.72
+New York,Elmhurst,Private room,51.15
+New York,Dyker Heights,Private room,51.11
+New York,Bay Ridge,Shared room,51.11
+New York,Bronxdale,Shared room,51
+New York,Mount Hope,Private room,50.25
+New York,Highbridge,Private room,50.21
+Rome,VII San Giovanni/Cinecitta,Private room,50.16
+New York,College Point,Shared room,50
+Rio de Janeiro,Cidade Universitaria,Shared room,50
+Rio de Janeiro,Benfica,Private room,50
+New York,Port Morris,Private room,50
+Rio de Janeiro,Riachuelo,Shared room,50
+Sydney,Burwood,Shared room,50
+New York,Bushwick,Hotel room,50
+Sydney,Ashfield,Shared room,50
+Rio de Janeiro,Senador Camara,Shared room,50
+Rio de Janeiro,Jardim Carioca,Entire place,50
+Paris,Observatoire,Shared room,49.92
+Sydney,Lane Cove,Shared room,49.6
+New York,Melrose,Private room,49.6
+New York,New Brighton,Private room,49
+Sydney,Holroyd,Hotel room,49
+Sydney,City Of Kogarah,Shared room,48.67
+New York,Corona,Shared room,48.39
+Paris,Menilmontant,Private room,48.36
+New York,Chelsea,Hotel room,48.33
+New York,Greenpoint,Shared room,48.18
+Rome,IX Eur,Private room,48.01
+Rio de Janeiro,Cascadura,Shared room,48
+New York,Roosevelt Island,Shared room,48
+Paris,Luxembourg,Shared room,47.67
+New York,Park Slope,Shared room,47
+Rio de Janeiro,Gamboa,Shared room,47
+New York,Glendale,Private room,46.47
+Rome,XI Arvalia/Portuense,Private room,46.37
+Paris,Opera,Shared room,46.3
+Sydney,Sydney,Shared room,46.25
+Rio de Janeiro,Engenho de Dentro,Shared room,46
+New York,Inwood,Shared room,46
+New York,Bull's Head,Private room,46
+Rio de Janeiro,Bento Ribeiro,Shared room,46
+New York,Port Richmond,Private room,46
+New York,Kensington,Shared room,45.67
+Paris,Elysee,Shared room,45.64
+New York,Edgemere,Private room,45.6
+New York,Graniteville,Private room,45
+New York,Castleton Corners,Private room,45
+New York,Marble Hill,Private room,44.5
+New York,Maspeth,Shared room,44.5
+Rome,XII Monte Verde,Hotel room,44.44
+New York,University Heights,Private room,44
+New York,Queens Village,Shared room,43.33
+New York,Manhattan Beach,Private room,43
+Rome,IV Tiburtina,Private room,42.68
+New York,Sunnyside,Shared room,42.67
+New York,Morrisania,Private room,42.6
+New York,Tremont,Shared room,42.5
+Paris,Reuilly,Shared room,42.21
+Rome,VI Roma delle Torri,Shared room,42
+New York,Hunts Point,Private room,41.88
+Rome,III Monte Sacro,Private room,41.41
+New York,Bensonhurst,Shared room,41.33
+New York,Borough Park,Shared room,40.83
+Paris,Enclos-St-Laurent,Shared room,40.75
+New York,Bushwick,Shared room,40.34
+New York,Soundview,Private room,40.3
+Rio de Janeiro,Quintino Bocaiuva,Shared room,40
+Rio de Janeiro,Cosme Velho,Shared room,40
+Rio de Janeiro,Realengo,Shared room,40
+Rio de Janeiro,Maria da Graca,Shared room,40
+Rome,XIII Aurelia,Shared room,39.71
+Rome,II Parioli/Nomentano,Shared room,39.56
+New York,Belmont,Private room,39.27
+Rio de Janeiro,Vila Kosmos,Private room,39
+New York,Woodside,Private room,38.88
+Rome,V Prenestino/Centocelle,Private room,37.69
+New York,Spuyten Duyvil,Private room,37
+New York,Battery Park City,Shared room,37
+New York,Flatbush,Shared room,36.92
+Rome,VI Roma delle Torri,Private room,36.73
+Rome,III Monte Sacro,Shared room,36.6
+Sydney,Woollahra,Shared room,36.36
+New York,Jamaica,Shared room,36.25
+New York,Bedford-Stuyvesant,Shared room,36.15
+Paris,Menilmontant,Shared room,36
+New York,Arden Heights,Private room,36
+New York,Flatlands,Shared room,36
+Rome,VII San Giovanni/Cinecitta,Shared room,35.63
+Sydney,Marrickville,Shared room,35.58
+Sydney,Camden,Shared room,35
+Sydney,Leichhardt,Shared room,35
+New York,Schuylerville,Shared room,35
+New York,Grant City,Private room,34.67
+New York,Midwood,Shared room,34.6
+New York,Elmhurst,Shared room,34.3
+New York,Gravesend,Shared room,33.4
+Sydney,Campbelltown,Shared room,33.33
+Paris,Popincourt,Shared room,33.02
+New York,Sheepshead Bay,Shared room,32.86
+New York,Woodlawn,Private room,32.67
+Paris,Gobelins,Shared room,32.4
+New York,Little Neck,Shared room,32
+Rome,V Prenestino/Centocelle,Shared room,31.36
+New York,Van Nest,Shared room,31
+Rome,I Centro Storico,Shared room,30.63
+Rome,XV Cassia/Flaminia,Shared room,30
+New York,Gerritsen Beach,Private room,30
+New York,St. Albans,Shared room,29
+New York,Sunset Park,Shared room,28.4
+New York,Woodhaven,Shared room,28
+Sydney,Hornsby,Shared room,28
+New York,Ridgewood,Shared room,27.75
+Paris,Buttes-Chaumont,Shared room,27.11
+New York,Brownsville,Shared room,27
+New York,Olinville,Shared room,26
+Rome,XI Arvalia/Portuense,Shared room,25
+New York,Concord,Shared room,25
+New York,Prospect-Lefferts Gardens,Shared room,22
+New York,Port Morris,Shared room,21.92
+Rome,XIV Monte Mario,Shared room,21
+New York,Kew Gardens,Shared room,20
+Rome,VIII Appia Antica,Shared room,19.6
+New York,Holliswood,Shared room,16
+New York,Mott Haven,Hotel room,0
+Mexico City,Iztapalapa,Hotel room,0
+New York,Kips Bay,Hotel room,0
+New York,Williamsburg,Hotel room,0
+New York,East Village,Hotel room,0
+New York,Two Bridges,Hotel room,0
